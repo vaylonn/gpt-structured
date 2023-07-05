@@ -25,14 +25,14 @@ load_dotenv('./.env')
 # Configuration de l'API OpenAI
 openai.api_type = "azure"
 openai.api_version = "2023-03-15-preview"
-openai.api_base = os.environ["OPENAI_API_BASE"] = ""
-openai.api_key = os.environ["OPENAI_API_KEY"] = ""
+openai.api_base = os.environ["OPENAI_API_BASE"]
+openai.api_key = os.environ["OPENAI_API_KEY"]
 
 #set context window
-context_window = 2048
+context_window = 4096
 
 #set number of output tokens
-num_output = 512
+num_output = 1024
 
 # Initialisation de l'objet AzureOpenAI
 # test1 représente le nom de déployment model sur Azure (le nom du modèle gpt35turbo)
@@ -130,7 +130,7 @@ query_engine = index.as_query_engine(
     refine_template=refine_prompt, 
 )
 response = query_engine.query(
-    "What are a few things the author did growing up?", 
+    "Trouve les informations requises dans le document et répond moi avec précision", 
 )
 print(str(response))
 
