@@ -87,7 +87,17 @@ print((f"Finished loading doc n°1 index from storage with {len(index.docstore.d
 response_schemas = [
     ResponseSchema(name="Education", description="Describes the author's educational experience/background."),
     ResponseSchema(name="Work", description="Describes the author's work experience/background."),
-    ResponseSchema(name="Languages", description="Describes the author's programmation languages and skills.")
+    ResponseSchema(name="Languages", description="Languages de programmations maitrisés par valentin"),
+    ResponseSchema(name="age", description="Age de valentin"),
+    ResponseSchema(name="Localisation", description="Ou est ce que valentin habite"),
+    ResponseSchema(name="phone", description="numéro de téléphone de valentin"),
+    ResponseSchema(name="mail", description="addresse mail de valentin"),
+    ResponseSchema(name="hobby", description="passions de valentin"),
+    ResponseSchema(name="2Education", description="Describes the author's educational experience/background."),
+    ResponseSchema(name="2Work", description="Describes the author's work experience/background."),
+    ResponseSchema(name="parler", description="langues parlées par valentin et leur niveau"),
+    ResponseSchema(name="sport", description="sports de valentin"),
+    ResponseSchema(name="academics", description="quels sont ses projets académiques"),
 ]
 
 # define output parser
