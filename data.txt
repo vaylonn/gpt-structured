@@ -1,0 +1,861 @@
+PROCLERO
+Prospectus
+Société d’Investissement à Capital Variable (SICAV) de droit français constituée en France.
+OPCVM relevant de la Directive européenne 2009/65/CE
+31 mars 2023
+Société de Gestion
+Meeschaert Asset Management Tour Maine Montparnasse 33 avenue du Maine 75015 Paris
+Dépositaire
+CACEIS BANK 89-91 rue Gabriel Péri 92120 Montrouge
+MEESCHAERT ASSET MANAGEMENT - SAS au capital de 125.000 € - RCS PARIS 329 047 435 - NAF 6430Z– SGP agrément GP-040 00025
+Tour Maine Montparnasse, 33 avenue du Maine 75015 Paris – Tél. : +33 (0)1 53 40 20 20
+MEESCHAERT ASSET MANAGEMENT
+PROSPECTUS
+3
+1. CARACTÉRISTIQUES GÉNÉRALES
+3
+2. ACTEURS
+4
+3. MODALITÉS DE FONCTIONNEMENT ET DE GESTION
+5
+3.1
+Caractéristiques générales
+5
+3.2
+Dispositions particulières
+6
+4. INFORMATIONS D’ORDRE COMMERCIAL
+17
+5. RÈGLES D’INVESTISSEMENT
+18
+6. RISQUE GLOBAL
+18
+7. RÈGLES D’ÉVALUATION ET DE COMPTABILISATION DES ACTIFS
+18
+7.1
+Description des méthodes de valorisation des postes du bilan et du hors-bilan
+18
+7.2
+Méthodes d'évaluation des engagements hors bilan
+18
+7.3
+Indication du mode de comptabilisation des titres
+19
+7.4
+Description de la méthode suivie pour la comptabilisation des revenus des valeurs à revenu fixe
+19
+7.5
+Devise de comptabilisation
+19
+8. RÉMUNÉRATION
+19
+STATUTS DE LA SICAV PROCLERO
+20
+PROCLERO
+OPCVM relevant de la Directive Européenne 2009/65/CE
+PROSPECTUS
+1. CARACTÉRISTIQUES GÉNÉRALES
+Dénomination : PROCLERO Son siège social est Tour Maine Montparnasse 33 avenue du Maine 75015 Paris
+Forme juridique et état membre dans lequel l’OPCVM a été constitué : Société d’Investissement à Capital Variable (SICAV) de droit français constituée en France.
+Date de création et durée d’existence : Cette SICAV a été créée le 02/01/2019 pour une durée de 99 ans par fusion- absorption du FCP PROCLERO créé le 13/07/2012. Cette mutation a été agréée le 09/11/2018.
+Synthèse de l’offre de gestion :
+Catégorie de part
+Code ISIN
+Devise de libellé
+Valeur d’origine de la part
+Affectation des sommes distribuables (résultat net et plus- values nettes réalisées)
+Montant minimum de souscription initiale
+Souscripteurs concernés
+C
+FR0011136563
+Euro
+150 euros
+Capitalisation
+Un millième d’action
+Ouvertes à tous souscripteurs. (Elle est également destinée à servir de support de contrats d’assurance vie en unités de compte de compagnies d’assurance – Action C).
+D
+FR0011147552
+Euro
+150 euros
+Résultat net : Distribution Plus-values nettes réalisées : Distribution (totale ou partielle) ou report (total ou partiel) sur décision de la société de gestion
+Un millième d’action
+Ouvertes à tous souscripteurs.
+A
+FR0014001SX6
+Euro
+150 euros
+Capitalisation
+Un millième d’action
+Réservée à la commercialisation par des intermédiaires financiers
+I
+FR0014001SY4
+Euro
+10 000 euros
+Capitalisation
+3 000 000 euros
+Réservée aux investisseurs Institutionnels
+Indication du lieu où l’on peut se procurer le dernier rapport annuel et le dernier rapport périodique :
+Les derniers documents annuels et périodiques sont adressés dans un délai de huit jours ouvrés sur simple demande écrite de l’associé auprès de :
+Meeschaert Asset Management Tour Maine Montparnasse, 33 avenue du Maine 75755 Paris Cedex 15 contact-mam@meeschaert.com
+Une fiche de présentation de la SICAV, le DICI et le prospectus sont disponibles sur le site www.meeschaert-am.com Le pourcentage d’actifs de la SICAV qui serait susceptible de faire l’objet d’un traitement particulier si ces actifs devenaient non liquides serait indiqué dans le rapport annuel de la SICAV.
+De la même manière, toute nouvelle disposition prise pour gérer la liquidité de la SICAV sera mentionnée dans le rapport annuel de la SICAV.
+Les conditions de réemploi des actifs remis en garantie et toute garantie sont décrites dans le rapport annuel de la SICAV. Des explications supplémentaires peuvent être obtenues si nécessaire auprès de Meeschaert Asset Management.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 3 sur 30
+PROCLERO
+2. ACTEURS
+Société de gestion par délégation : Meeschaert Asset Management, S.A.S, Tour Maine Montparnasse
+33 avenue du Maine 75015 Paris
+Société de gestion de portefeuille, agréée par l’AMF sous le numéro GP-04000025 en date du 15/04/04. La société de gestion gère les actifs de la SICAV dans l’intérêt exclusif des associés et rend compte de sa gestion aux associés. Elle dispose de moyens financiers, techniques et humains en adéquation avec les services d’investissement proposés.
+Afin de couvrir une mise en cause éventuelle de sa responsabilité professionnelle concernant l’ensemble des FIA qu’elle gère, la société de gestion dispose de fonds propres supplémentaires d’un montant suffisant pour couvrir les risques liés à l’engagement de sa responsabilité professionnelle. Le cas échéant, la société de gestion pourrait souscrire une assurance de responsabilité civile professionnelle.
+Dépositaire et conservateur :
+Identité du dépositaire de l’OPCVM
+CACEIS BANK
+Société Anonyme- Etablissement de crédit agréé par le CECEI le 1er avril 2005 89-91 rue Gabriel Péri – 92120 Montrouge.
+Description des responsabilités du Dépositaire et des conflits d’intérêts potentiels
+Les fonctions du dépositaire recouvrent les missions, telles que définies par la Règlementation applicable, de la garde des actifs, de contrôle de la régularité des décisions de la société de gestion et de suivi des flux de liquidités des OPC.
+Le dépositaire est indépendant de la société de gestion.
+La description des fonctions de garde déléguées, la liste des délégataires et sous délégataires de CACEIS Bank et l’information relative aux conflits d’intérêt susceptibles de résulter de ces délégations sont disponibles sur le site de CACEIS www.caceis.com. Des informations actualisées sont mises à disposition des investisseurs sur demande.
+Commissaire aux comptes :
+La société PriceWaterhouseCoopersAudit dont le siège social se situe 63 rue de Villiers 92208 Neuilly-Sur-Seine Cedex, représentée par Monsieur Frédéric SELLAM.
+Le commissaire aux comptes certifie la régularité et la sincérité des comptes de la SICAV. Il contrôle la composition de l’actif ainsi que les informations de nature financière et comptable avant leur publication.
+Commercialisateur :
+Meeschaert Asset Management, Financière Meeschaert
+La liste des commercialisateurs n’est pas exhaustive dans la mesure où, notamment, l’OPCVM est admis à la circulation en Euroclear. Ainsi, certains commercialisateurs peuvent ne pas être mandatés ou connus de la société de gestion.
+Centralisateur par délégation de la société de gestion
+Etablissement en charge de la réception des ordres de souscriptions et rachats : CACEIS BANK
+Société Anonyme- Etablissement de crédit agréé par le CECEI le 1er avril 2005 89-91 rue Gabriel Péri – 92120 Montrouge.
+Délégataire de la gestion comptable : CACEIS Fund Administration, société anonyme, 89-91 rue Gabriel Péri – 92120 Montrouge.
+Le délégataire de la gestion comptable assure les fonctions d’administration des fonds (comptabilisation, calcul de la valeur liquidative).
+Conseillers :
+Néant
+Membres des organes d’administration et de direction :
+L’identité et les fonctions des membres du Comité exécutif ainsi que les principales fonctions qu’ils exercent en dehors de la SICAV sont disponibles dans le rapport annuel de la SICAV. Ces informations, produites sous la responsabilité de chacun des membres du Comité exécutif sont mises à jour annuellement.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 4 sur 30
+PROCLERO
+3. MODALITÉS DE FONCTIONNEMENT ET DE GESTION
+3.1 Caractéristiques générales
+Caractéristiques des actions
+Code Isin : FR0011136563 (Action C) FR0011147552 (Action D) FR0014001SX6 (Action A) FR0014001SY4 (Action I)
+Nature du droit attaché à la catégorie d’actions : la Société d’Investissement à Capital Variable, dite SICAV, est une SAS qui a pour objet la gestion d’un portefeuille d’instruments financiers et de dépôts. Sous réserve des dispositions de l’article L. 214-7-4 du Code monétaire et financier, les actions de la SICAV sont émises et rachetées à tout moment par la société à la demande des actionnaires et à la valeur liquidative majorée ou diminuée, selon le cas, des frais et commissions. Les actionnaires disposent d'un droit de propriété sur les actifs de la SICAV proportionnel au nombre d’actions possédées.
+- Inscription à un registre ou précision des modalités de tenue du passif :
+- Dans le cadre de la gestion du passif de la SICAV, les fonctions de centralisation des ordres de souscription et de rachat, ainsi que de tenue de compte émetteur des actions sont effectuées par le dépositaire en relation avec la société Euroclear France, auprès de laquelle la SICAV est admise.
+- Inscription au registre du gestionnaire du passif pour les actions inscrites au nominatif administré.
+- Droits de vote : Chaque action donne droit à un droit de vote proportionnel à la fraction du capital qu’elle représente. Une action représente une voix.
+- Forme des actions : au porteur.
+- Décimalisation (fractionnement) : Les actions sont fractionnées en millièmes.
+Date de clôture :
+Dernier jour de bourse du mois de décembre.
+Indication sur le régime fiscal :
+La SICAV n’est pas assujettie à l’impôt sur les sociétés. Cependant, les distributions et les plus-values sont imposables entre les mains de ses associés.
+Ainsi, les gains ou les pertes réalisés lors du rachat des actions de la SICAV constituent des plus-values ou moins-values soumises au régime des plus-values ou moins-values sur valeurs mobilières applicable à chaque actionnaire suivant sa situation propre (pays de résidence, personne physique ou morale, lieu de souscription…). Ces plus-values peuvent faire l'objet d’une retenue à la source si l’actionnaire ne réside pas fiscalement en France. Par ailleurs, les plus-values latentes peuvent dans certains cas faire l'objet d'une imposition. En cas de doute sur sa situation fiscale, l’actionnaire est invité à se rapprocher d'un conseiller pour connaître le traitement fiscal spécifique qui lui sera applicable avant la souscription d’action de la SICAV.
+Le présent prospectus n'a pas vocation à résumer les conséquences fiscales attachées, pour chaque investisseur, à la souscription, au rachat, à la détention ou à la cession d’action(s) de la SICAV. Ces conséquences varieront en fonction des lois et des usages en vigueur dans le pays de résidence, de domicile ou de constitution de l’actionnaire ainsi qu’en fonction de sa situation personnelle.
+Selon votre régime fiscal, votre pays de résidence, où la juridiction à partir de laquelle vous investissez dans cette SICAV, les plus-values et revenus éventuels liés à la détention d’actions de la SICAV peuvent être soumis à taxation. Nous vous conseillons de consulter un conseiller fiscal sur les conséquences possibles de l’achat, de la détention, de la vente ou du rachat des actions de la SICAV d’après les lois de votre pays de résidence fiscale, de résidence ordinaire ou de votre domicile.
+La Société de Gestion et les commercialisateurs n’assument aucune responsabilité, à quelque titre que ce soit, eu égard aux conséquences fiscales qui pourraient résulter pour tout investisseur d’une décision d’achat, de détention, de vente ou de rachat des actions de la SICAV.
+Il est recommandé à chaque actionnaire de consulter un conseiller fiscal sur la réglementation applicable dans le pays de résidence de l’actionnaire, suivant les règles appropriées à sa situation (personne physique, personne morale soumise à l’impôt sur les sociétés, autres cas…). Les règles applicables aux actionnaires résidents français sont fixées par le Code général des impôts.
+D’une manière générale, les actionnaires de la SICAV sont invités à se rapprocher de leur conseiller fiscal ou de leur chargé de clientèle habituel afin de déterminer les règles fiscales applicables à leur situation particulière.
+Aux termes de la règlementation fiscale américaine dite FATCA (Foreign Account Tax Compliance Act), les actionnaires pourraient être tenus de fournir à la SICAV, à la société de gestion ou à leur mandataire et ce, afin que soient identifiées les « US
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 5 sur 30
+PROCLERO
+Person » au sens de FATCA, des renseignements notamment sur leur identité personnelle et lieux de résidence (domicile et résidence fiscale). Ces informations pourront être transmises à l’administration fiscale américaine via les autorités fiscales françaises. Tout manquement par les actionnaires à cette obligation pourrait résulter en un prélèvement forfaitaire à la source de 30% imposé sur les flux financiers de source américaine. Nonobstant les diligences effectuées par la société de gestion au titre de FATCA, les actionnaires sont invités à s’assurer que l’intermédiaire financier qu’ils ont utilisé pour investir dans la SICAV bénéficie lui-même du statut dit de Participating FFI. Pour plus de précisions, les actionnaires pourront se tourner vers un conseiller fiscal.
+La Congrégation de la Communauté Saint-Martin a fondé l’École Supérieure de Philosophie et de Théologie, qui est affiliée depuis 2007 à la Faculté de Théologie de l’Université Pontificale du Latran (affiliation renouvelée en 2012 puis en 2017).
+La Communauté exerce ainsi une activité de formation intellectuelle, philosophique et théologique, dans le cadre d'un établissement privé d’enseignement supérieur régulièrement déclaré (N°UAI 0531049C). Cette activité, dispensée dans un cadre non lucratif, permet à la Congrégation de la Communauté Saint-Martin, pour son activité d’établissement d’enseignement, de recevoir des dons ouvrant droits à un avantage fiscal au profit de ses donateurs.
+3.2 Dispositions particulières
+Détention d’OPC : jusqu’à 10 % de l’actif net.
+Objectif de gestion : « Proclero » a pour objectif la recherche d’une performance à moyen terme égale à la performance de l’indicateur composite composé de 80% de ICE BofAML 1-3 Year Euro Government Index et de 20% de l’Euro Stoxx Net Total Return à partir d'une allocation diversifiée entre les marchés actions et taux en mettant en œuvre une stratégie ISR.
+La SICAV est un produit financier répondant aux critères de l’article 8 du Règlement (UE) 2019/2088 SFDR.
+Indicateur de référence :
+L’indicateur de référence est un indicateur composite composé de 80% d’ICE BofAML 1-3 Year Euro Government Index et de 20% de l’Euro Stoxx Net Total Return. La SICAV n’est pas indicielle mais des comparaisons avec cet indice composite restent cependant possibles à long terme.
+L’indice ICE BofAML 1-3 Year Euro Government Index est représentatif de la performance, coupons réinvestis, des obligations d’Etat de la zone euro de maturité comprise entre 1 et 3 ans. Cet indice est administré par ICE Benchmark Administration Limited et disponible sur le site www.theice.com. Ticker Bloomberg : EG01 Index.
+L'indice EURO STOXX est un sous-ensemble des titres euro de l'indice STOXX Europe 600. Avec un nombre variable de composants, l'indice représente les sociétés de grande, moyenne et petite capitalisation de 11 pays de la zone euro. Il est calculé dividendes réinvestis. Cet indice est administré STOXX Limited par et disponible sur le site : https://www.stoxx.com Ticker Bloomberg : SXXT Index
+A la date de la dernière mise à jour du présent prospectus, les administrateurs des deux indices de références nommés ci- dessus sont inscrits sur le registre d’administrateurs et d’indices de référence tenu par l’ESMA.
+Conformément au règlement(UE) 2016/1011 du Parlement européen et du Conseil du 8 juin 2016, Meeschaert Asset Management dispose d’une procédure de suivi des indices de référence utilisés décrivant les mesures à mettre en œuvre en cas de modifications substantielles apportées à un indice ou de cessation de fourniture de cet indice.
+L’indice n’est pas désigné comme un indice de référence au sens du Règlement (UE) 2019/2088 sur la publication d’informations en matière de durabilité dans le secteur des services financiers (dit « Règlement SFDR). Il n'a pas vocation à être aligné aux ambitions environnementales ou sociales telles que promues par la SICAV.
+➢
+Stratégie d’investissement
+1. Stratégies utilisées
+1) Sélection Extra-Financière – ESG
+La stratégie d’investissement de « PROCLERO » repose en amont sur la sélection de valeurs éligibles pour la SICAV, dans une démarche de « best-in-class » et d’« intégration ESG ». L’objectif est d’investir sur les sociétés ayant les meilleurs pratiques au sein de leur secteur ainsi que dans les sociétés présentant une valeur ajoutée forte sur le point extra-financier.
+PROCLERO - Prospectus - 2023-03-31
+MEESCHAERT
+ASSET MANAGEMENT
+page 6 sur 30
+PROCLERO
+L'application de critères extra-financiers dans le processus de sélection des titres est effectuée en amont puis est suivie du filtre des critères financiers.
+Le filtre ISR est éliminatoire, les titres éligibles en portefeuille devront satisfaire aux critères extra-financiers.
+Meeschaert Asset management utilise en complément d’études sectorielles et thématiques réalisées en interne, les prestations de ISS ESG, Ethifinance, Sustainalytics Proxinvest, et ECGS.
+La SICAV utilise les critères éthiques de l’écologie humaine :
+• Priorité à tout ce qui contribue aux besoins vitaux naturels, au bien – être, à la qualité de vie et à l’épanouissement de la personne humaine.
+• Refus de tout ce qui porte atteinte à la vie humaine et à sa dignité.
+La sélection de la SICAV se porte sur des entreprises qui selon notre analyse respectent la dignité humaine et agissent pour un développement économique et humain durable (critères environnementaux, sociaux et de gouvernance). Une attention particulière sera donc accordée aux critères de respect des Droits de l’Homme et de la personne humaine et des droits du travail, ainsi qu’aux engagements pris par les entreprises vis-à-vis des communautés locales.
+Les principaux critères d’analyse des entreprises sont :
+• La raison d’être de l’entreprise : vision, valeurs et finalités,
+• L’utilité et la qualité des produits et des services,
+• La politique des prix et la juste répartition de la valeur entre les parties prenantes,
+• La déontologie professionnelle,
+• Les politiques sociales : respect du droit du travail, soutien apporté à la famille, qualité du dialogue social,
+• La qualité de la présence dans les pays en développement,
+• Les politiques environnementales : impact environnemental,
+• La gouvernance : rémunération des dirigeants, relations avec les pouvoirs publics, communication, publicité,
+• Le respect des droits de l’homme et de la personne humaine : engagement sociétal,
+• Les relations nouées avec l’ensemble des parties prenantes (clients, fournisseurs, communautés locales, sociétés civiles, actionnaires...).
+A titre d’exemples, quelques indicateurs pour la sélection des entreprises :
+- Critères environnementaux : gestion économe des ressources naturelles, gestion des émissions de gaz à effet de serre, préservation de la biodiversité, gestion des déchets…
+- Critères sociaux : formation et gestion des compétences, politique de santé et de sécurité, conditions de travail…
+- Critères de gouvernance : indépendance du conseil d’administration, pourcentage de femmes dans les postes de direction, efficacité des systèmes de contrôle interne,gestion des conflits d’intérêts.…
+- Respect des Droits de l’Homme et de la personne humaine et droits du travail : lutte contre les discriminations, dialogue social
+…
+- Engagements pris par les entreprises vis-à-vis des communautés locales : impact économique de l’entreprise sur ses territoires d’implantation…
+1.1. Processus de sélection ESG : Obligation
+La société de gestion a établi un univers de départ d’environ 1050 émetteurs qui est composé des émetteurs des indices ICE BofA Euro Corporate Index (ER00) et ICE Bank of America Euro Fixed & Floating Rate High Yield Index (HEA0) présentant un suivi et une notation ESG Risk Rating par Sustainalytics. Les émetteurs non suivis et/ou non notés pas Sustainalytics n’entrent pas en compte dans la composition de l’Univers Analysé. L’ensemble des valeurs de l’univers défini est analysé au travers de critères extra-financiers selon des critères définis par l’équipe d’analyse ISR interne de la Société de Gestion :
+- 1/ Exclusion des émetteurs dont une part non négligeable de l’activité (5% du chiffre d’affaires) est réalisée dans le tabac, l’alcool, la pornographie, les jeux d’argent, l’armement illégal, les OGM ou les pesticides. Par ailleurs, la SICAV applique la politique de sortie du charbon de la société de gestion qui concerne les producteurs d’électricité à partir de charbon et l’exploitation de mines de charbon.
+- 2/ Exclusion des émetteurs présentant des controverses ESG dont la sévérité est évaluée à un niveau 4 ou 5 par Sustainalytics (5 étant le niveau de controverses le plus sévère)
+- 3/ Exclusion des émetteurs ayant l’ESG Risk Rating le plus élevé (0 étant la meilleure note) afin de compléter les émetteurs exclus en étape 1/ et 2/ pour parvenir à un taux de sélectivité de 80% maximum sur l’Univers Analysé, en nombre d’émetteurs
+- 4/ Si nécessaire : Abaissement du taux de sélectivité initial de 80% en nombre d’émetteurs pour parvenir à un taux de sélectivité de 80% maximum de l’Univers en poids des émetteurs.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 7 sur 30
+PROCLERO
+La dernière étape du processus vise à s’assurer que la sélection de 80% maximum du nombre d’émetteurs correspondent également à une sélection de 80% en poids des émetteurs dans l’Univers. L’ensemble de ces filtres garantit en permanence un Taux d’exclusion strictement supérieur à 20%, à la fois en nombre d’émetteurs et en poids des émetteurs au sein de l’univers.
+L’univers des valeurs sur la base de ces critères est revu à minima mensuellement.
+1.2. Processus de sélection ESG : Action
+L’univers de départ est constitué d’environ 1500 émetteurs, intégrant notamment l’indice Stoxx Europe 600, le Gaïa Index Europe et le Gaïa index France ainsi que toutes les valeurs européennes encore non cotées mais faisant l’objet d’une IPO. Dans un premier temps, sont exclues de l’univers les émetteurs dont une part non négligeable de l’activité (5% du chiffre d’affaires) est réalisée dans le tabac, l’alcool, la pornographie, les jeux d’argent ou l’armement illégal. Sont aussi exclues du périmètre d’investissement les sociétés qui réalisent des recherches sur les cellules souches embryonnaires. Par ailleurs, la SICAV applique la politique de sortie du charbon de la société de gestion qui concerne les producteurs d’électricité à partir de charbon et l’exploitation de mines de charbon.
+Sont exclues également les émetteurs faisant l’objet de controverses ESG dont la sévérité est évaluée à un niveau 4 ou 5 par Sustainalytics (5 étant le niveau de controverses le plus sévère)
+Ensuite, une approche quantitative permet d’éliminer les entreprises les moins bien notées par les prestataires externes. Les deux derniers déciles sont ainsi de facto éliminés (sont exclus les 20 % des titres ayant les notations les plus faibles) des indices Stoxx 600, Gaïa Index France et Gaïa index Europe.
+Enfin, les entreprises du stoxx 600 ayant passé les filtres quantitatifs sont analysées qualitativement de façon approfondie, afin de classer les entreprises en fonction de leurs approches et de leurs évaluations ESG. Plus le secteur sera considéré comme sensible au niveau social et environnemental, et plus le degré de sélectivité sera exigeant.
+L’équipe ISR présente ses analyses dans un comité mensuel, qui regroupe des associations et ONG. Ces comités permettent de débattre sur les enjeux extra-financiers exposés. L’équipe ISR identifie, à la fin de chaque comité, les sociétés ayant le meilleur comportement sur la base des critères présentés ci-dessus, pour les inclure dans l’univers d’investissement. Cette sélection s’effectue selon une logique de classement, au sein de chaque secteur d’activités.
+L’équipe ISR complète son analyse par la veille sur les controverses et les actions correctrices mises en place.
+1.3. Taux de Sélectivité
+Dans chaque poche (Obligations et Actions), au maximum 80% de l’ensemble des entreprises analysées et notées tous secteurs confondus sont finalement éligibles et donc intégrés au périmètre d’investissement du fonds.
+Au global, le taux d’exclusion par rapport à l’univers de départ sera supérieur à 20%.
+1.4. Poids de l’ESG
+La part des entreprises analysées ESG dans le portefeuille de la SICAV est supérieure à 90%. Ce pourcentage s’entend en pourcentage de l’actif net de la SICAV (hors liquidités détenues à titre accessoire, obligations et autres titres de créances émis par des émetteurs publics ou quasi publics et actifs solidaires).
+Lorsqu’un titre ne respectera plus les critères exposés ci-dessus, le département de recherche ISR en informe le gérant, qui dispose au besoin d’un délai de 3 mois pour céder ce titre. Le choix du timing de vente dépendra des opportunités de marché et s’effectuera dans l’intérêt du porteur.
+1.5. Investissement en OPC
+Concernant l’investissement sur les OPC limité à 10% de l’actif net : La SICAV pourra investir dans des fonds ayant le label ISR ou respectant eux-mêmes les critères quantitatifs issus de ce label, à savoir une réduction de 20% de leur univers d’investissement initial ainsi qu’un taux d’analyse supérieur à 90% de l’actif net (hors liquidités détenues à titre accessoires, obligations et autres titres de créances émis par des émetteurs publics ou quasi publics et actifs solidaires).
+Certains critères de sélection pouvant être différents, la stratégie ISR de la SICAV pourrait ne pas être parfaitement harmonisée. Dans le cadre de sa gestion de trésorerie, la SICAV pourra avoir recours à des OPC « Monétaires ».
+Les critères de sélection sont à la fois quantitatif (performances historiques, la volatilité, indicateurs de risque extrême…) et qualitatif (qualité de la société de gestion, processus de gestion, univers d’investissement, qualité du reporting, rendez-vous avec le gérant pour le suivi de ses opérations, reconnaissance de l’industrie : prix, récompenses, étoiles…).
+1.6. Objectifs de durabilité
+La SICAV s’engage sur les objectifs de durabilité suivants :
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 8 sur 30
+PROCLERO
+- Surperformer son indice par une moindre exposition aux controverses, en n’investissant pas dans des entreprises faisant l’objet d’une controverse grave. Les controverses graves sont évaluées en niveau 4 ou 5 par Sustainalytics (le niveau 5 étant le niveau de controverses le plus élevé).
+- Surperformer son indice par une intensité carbone (tCO2eq / million d’euro de chiffre d’affaires) inférieure. Les données d’intensité carbone sont fournies par ISS ESG.
+1.7. Alignement avec la Taxonomie
+La SICAV promeut des caractéristiques environnementales mais ne s’engage pas à réaliser des investissements prenant en compte des critères de l’Union Européenne en matière d’activités économiques durables sur le plan environnemental. Il n’est toutefois pas exclu que la SICAV puisse réaliser des investissements sous-jacents qui prennent en compte ces critères. Dans ce cas, le principe consistant à « ne pas causer de préjudice important » s’appliquerait uniquement aux investissements sous-jacents qui prennent en compte les critères de l'Union européenne en matière d'activités économiques durables sur le plan environnemental et pas à la portion restante des investissements sous-jacents.
+1.8. Investissement en titres non cotés
+Pour la partie non coté (comprise entre 5 et 10% de l’actif net du portefeuille), le processus d’investissement se décompose en étapes : Cette poche vise à financer des projets non cotés à forte utilité sociale / sociétale ou environnementale. Les investissements peuvent prendre la forme de prise de participation dans des fonds à impact social ou de financement d’entreprises ou d’associations à utilité sociale. Les principaux instruments qui seront utilisés sont : les actions, les titres participatifs, les parts ou actions d’OPCVM/FIA, libellés en EURO.
+La sélection des investissements se décompose en 4 étapes :
+1° étape : Origination de projets
+Les projets sourcés font l’objet d’une pré-sélection par le comité d’investissement à partir de 6 domaines d’investissement privilégiés :
+1er domaine : Alimentation / Eau
+2e domaine : Logement
+3e domaine : Santé
+4e domaine : Education
+5e domaine : Insertion / accès au travail
+6e domaine : Energies et communication
+En investissant dans ces domaines, PROCLERO cherche à favoriser tout ce qui peut contribuer à nourrir, donner à boire, vêtir, donner un toit, soigner, éduquer, former, donner du travail, protéger, insérer et réinsérer. PROCLERO est très attentif aux
+projets innovants, centrés sur le développement humain intégral.
+PROCLERO souhaite accompagner les entreprises d’économie sociale et solidaire dans lesquelles il investit, en partageant la vision et les exigences qui l’animent et en sollicitant d’elles des rapports réguliers, établissant les impacts de l’investissement, en particulier l’impact humain.
+2° étape : Analyse financière
+Cette seconde étape vise à réaliser une due diligence financière des projets/entreprises présélectionnés par le comité d’investissement.
+Pour les financements directs d’entreprises ou d’association à utilité sociale, la due diligence porte sur l’ensemble de la structure et vise à évaluer : La viabilité du modèle économique
+(Analyse des éléments historiques financiers de la société (CA, Bénéfices, Endettement…)
+La qualité du Management
+Respect de la Stratégie dans le temps,
+Engagement du management
+Rencontres avec la Société
+La validité financière de l’investissement
+Analyse des ratio financiers pertinents (EV/EBIT, ROE, VE/CA…)
+Utilisation de méthodologies complémentaires : comparables, valorisation des Cash Flows prévisionnels…
+Concernant les titres de dettes : il est procédé en complément à une analyse sur la base des éléments suivants :
+- Analyses crédit interne (endettement, Cash-Flows, rating interne…)
+- Nature de l’instrument (rang de seniorité, sécurisation…)
+- Comparaisons sectorielles…
+3° étape : Comité d’investissement
+MEESCHAERT
+ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 9 sur 30
+PROCLERO
+L’objet du comité d’investissement est de référencer les nouvelles structures éligibles qui ont franchi les étapes 1 et 2 et/ou de valider les demandes de renforcement des investissements dans ces structures déjà présentes dans le portefeuille de la SICAV. Le Comité d’investissement est composé de : l’équipe de gestion, le Directeur de la gestion actions, taux et solidaire, l’équipe des risques.
+Aux vues des analyses le comité d’investissement décidera ou non de l’intégration ou du renforcement des titres dans le portefeuille
+4° étape : Implémentation de l’investissement dans le portefeuille Investissement dans le portefeuille de PROCLERO.
+2) Analyse Financière
+L’analyse financière est basée sur les critères suivants : La gestion s’effectue dans le cadre d’un processus de sélection basée sur des analyses financières historiques et des données prévisionnelles, définie en fonction des opportunités de marché.
+Pour les titres en direct, le processus de sélection s'établit en 4 étapes distinctes :
+- Suivi et analyse (données économiques, données de marchés, analyses financières et crédit...),
+- Élaboration du scénario prévisionnel (décisions des banques centrales, prévisions de bénéfices, anticipations de l'évolution des courbes de taux...),
+- Stratégie d'investissement (choix de zone géographique, choix de secteurs, duration, choix des émetteurs...),
+- Et construction du portefeuille.
+La SICAV peut investir jusqu’à 10 % de son actif dans des parts ou actions d’OPCVM et/ou de FIA européens ouverts à une clientèle non professionnelle.
+Le risque de change sera maintenu en dessous de 10% de l’actif net.
+La sensibilité globale du portefeuille sera comprise entre 0 et 8.
+La SICAV peut être exposée sur des titres subordonnés à hauteur de 100% de son actif net.
+Les titres d’émetteurs issus des pays émergents seront limités à 20% de l’actif net.
+Un comité de pilotage et de suivi, composé de membres choisis par le président au sein de la Congrégation de la Communauté Saint-Martin et d’experts indépendants émet un avis consultatif sur :
+- le contenu de la charte éthique telle qu’inspirée de la Doctrine sociale de l’Eglise catholique et arrêtée par le comité exécutif ainsi que ses éventuelles évolutions ;
+- le respect de la charte éthique dans le cadre de la stratégie et des choix d’investissement de la SICAV ;
+- le choix de la société de gestion.
+Seule la société de gestion reste décisionnaire en matière de d’investissement ou désinvestissement. Elle n’est pas liée par cet avis du comité de pilotage.
+2. Actifs (hors dérivés intégrés)
+L’ensemble des classes d’actifs qui entrent dans la composition de l’actif de l’OPCVM sont : Actions : entre 0% et 25% de l’actif net.
+Dans la limite de la fourchette de détention précisée la SICAV investira dans des produits d’actions. La répartition sectorielle et géographique des émetteurs n’est pas déterminée à l’avance et s’effectuera en fonction des opportunités de marché. La SICAV privilégie en général les titres de sociétés de pays de l’OCDE, mais pourra à titre de diversification être exposé sur toutes les zones géographiques et sur toutes les capitalisations boursières (avec 10% maximum de petites capitalisations).
+Titres de créance, instruments du marché monétaire : entre 65% et 100% de l’actif net.
+La SICAV peut investir en produits de taux libellés en euro (obligations à taux fixes, variables, indexées, obligations convertibles mixtes ou obligataires et titres de créances négociables d’état ou d’émetteurs privés) sans privilégier de zone géographique a priori.
+L’allocation des différents types de titres ci-dessus n’est pas prédéterminée. Elle dépendra de facteurs macroéconomiques et techniques. Aucune répartition dette privée/dette publique n’est prédéfinie.
+Pour ce qui concerne les titres de taux, la société de gestion mène sa propre analyse crédit dans la sélection des titres à l’acquisition et en cours de vie. Elle ne s’appuie pas exclusivement sur les notations fournies par les agences de notation et met en place une analyse du risque de crédit et prend les dispositions nécessaires pour prendre ses décisions à l’achat ou en cas de dégradation de ces titres, afin de décider de les céder ou les conserver. La société de gestion ne recourt pas mécaniquement à ces notations mais privilégie sa propre analyse crédit pour évaluer la qualité de crédit de ces actifs et décider de la dégradation éventuelle de la note. La sélection des obligations convertibles et des TCN se fera exclusivement à travers une analyse interne, sans recours aux agences de notation.
+MEESCHAERT
+ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 10 sur 30
+PROCLERO
+Les produits de taux pourront, dans la limite de 35% de l’actif net, concerner des produits à caractère spéculatifs non notés ou notés "High Yield". Cette notation est réalisée par la société de gestion sur base de la notation composite Bloomberg et/ou celle d'agences de notation financière. La société de gestion ne recourt pas uniquement à ces notations et utilise d’autres sources d’informations (publication des comptes, roadshows, analyses crédit…) pour évaluer la qualité de crédit de ces actifs et décider de la dégradation éventuelle de la note.
+Le fond privilégiera des titres cotés en euro, mais pourra à titre de diversification investir hors euro, dans la limite de 10% de l’actif net du portefeuille.
+Le portefeuille sera composé d’au maximum de 50% de titres de créances émis par les Etats, les collectivités territoriales et par les agences gouvernementales ou internationales publiques.
+Actions et parts d’OPCVM et/ou de FIA européens ouverts à une clientèle non professionnelle : entre 0 et 10% de l’actif net.
+Dans la limite de la fourchette de détention précisée ci-dessous, la SICAV pourra détenir des parts ou actions d’autres OPCVM et/ou de FIA européens ouverts à une clientèle non professionnelle gérés par Meeschaert Asset Management ou d’autres sociétés de gestion, respectant les 4 critères d’éligibilité décrits à l’article R214-13 du Code Monétaire et Financier.
+L’exposition actions ne dépassera pas en tout état de cause pas 25% de l’actif net de la SICAV.
+La gestion de la trésorerie sera effectuée en titres du marché monétaire (TCN et/ou OPCVM et/ou FIA européens ouverts à une clientèle non professionnelle).
+3. Instruments dérivés
+Pour poursuivre l’objectif de gestion, la SICAV pourra intervenir sur des instruments financiers à terme négociés sur des marchés réglementés français et étrangers dans la limite de 100% de son actif net. Dans ce cadre, le gérant pourra prendre des positions en vue de couvrir le portefeuille sans rechercher de surexposition.
+Les engagements ne pourront excéder 100 % de l'actif net.
+Le gérant pourra investir sur les instruments dérivés suivants :
+• Nature des marchés d’intervention :
+☑ Réglementés ;
+☑ Organisés ;
+☐ De gré à gré ;
+• Risques sur lesquels le gérant désire intervenir :
+☑ Action ;
+☑ Taux ;
+☑ Change des pays de l’OCDE ;
+☐ Crédit ;
+☐ Autres risques (à préciser) ;
+• Nature des interventions : l’ensemble des opérations devant être limité à la réalisation de l’objectif de gestion.
+☑ Couverture ;
+☐ Exposition ;
+☐ Arbitrage ;
+☐ Autre nature (à préciser) ;
+• Nature des instruments utilisés :
+☑ Futures ;
+☑ Options ;
+☐ Swaps ;
+☐ Change à terme ;
+☐ Dérivés de crédit ;
+☐ Autres nature (à préciser) ;
+• La stratégie d’utilisation des dérivés pour atteindre l’objectif de gestion :
+☑ Couverture du risque de taux ;
+☐ Couverture du risque de crédit ;
+☑ Couverture du risque actions ;
+MEESCHAERT
+ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 11 sur 30 :selected: :selected: :unselected: :selected: :selected: :selected: :unselected: :unselected: :selected: :unselected: :unselected: :unselected: :selected: :selected: :unselected: :unselected: :unselected: :unselected: :selected: :unselected: :selected:
+PROCLERO
+☑ Couverture du risque de change ;
+☐ Reconstitution d’une exposition synthétique à des actifs, à des risques ; ☐ Autre stratégie.
+Les contrats à terme sont utilisés comme instruments, peu onéreux et liquides, pour couvrir l’exposition globale du portefeuille au risque de taux, d’actions ou de change. Les options sur les marchés à terme de taux d’intérêts ou de change sont utilisés pour protéger le portefeuille contre une hausse éventuelle des taux d’intérêts ou une baisse de la devise.
+Il ne sera pas recherché de surexposition. La somme de ces engagements est limitée à 100% de l’actif net. La sicav n’aura pas recours au total return swaps. La SICAV n’aura pas recours à l’effet de levier.
+4. Titres intégrant des dérivés
+Titres intégrant des dérivés simples : La SICAV aura recours à tout type de titres intégrant des dérivés simples. Les bons de souscription resteront dans la limite de 10% de l’actif net et les obligations convertibles ou échangeables dans la limite de 100% de l’actif net. Titres intégrant des dérivés complexes : La SICAV n’aura pas recours à des titres intégrant des dérivés complexes.
+5. Dépôts
+Néant.
+6. Emprunts d’espèces
+Dans le cadre de son fonctionnement normal (souscriptions/rachats) et dans la limite de 10 % de son actif net, l’OPCVM peut se trouver temporairement en position débitrice et avoir recours dans ce cas à l’emprunt d’espèces.
+7. Opérations d’acquisitions et cessions temporaires de titres
+Néant
+8. Contrats constituant des garanties financières
+Dans le cadre de la conclusion d’instruments financiers à terme conformément à la réglementation applicable, la SICAV pourra être amené à verser et/ou recevoir une garantie financière dans un but de réduction du risque de contrepartie. Cette garantie financière peut être donnée sous forme de liquidité ou en titres financiers.
+L’éligibilité des titres reçus en garantie est définie conformément à des contraintes d’investissement. Toute garantie financière reçue respectera les principes suivants :
+- Liquidité : Toute garantie financière en titres doit être très liquide et pouvoir se négocier rapidement sur un marché réglementé à prix transparent.
+- Cessibilité : Les garanties financières sont cessibles à tout moment.
+- Evaluation : Les garanties financières reçues font l’objet d’une évaluation quotidienne au prix du marché.
+- Interdiction de réutilisation : Les garanties financières ne peuvent être ni vendues, ni réinvesties, ni remises en garantie.
+- Corrélation : les garanties sont émises par une entité indépendante de la contrepartie.
+- Diversification : L’exposition à un émetteur donné ne dépasse pas 20% de l’actif net.
+- Conservation : Les garanties reçues par la SICAV seront conservées par le dépositaire de la SICAV ou à défaut par tout dépositaire tiers faisant l’objet d’une surveillance prudentielle et qui n’a aucun lien avec le fournisseur de la garantie.
+➢ Profil de risque
+Votre argent sera principalement investi dans des instruments financiers sélectionnés par la société de gestion. Ces instruments connaîtront les évolutions et aléas des marchés.
+La SICAV est exposée à divers types de risques (voir ci-dessous) qui en raison de la diversité des sous-jacents utilisés, se matérialisent rarement simultanément.
+Risque de perte en capital : L’investisseur est averti que son capital n’est pas garanti et peut donc ne pas lui être restitué.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 12 sur 30 :selected: :unselected: :unselected:
+PROCLERO
+Risque de crédit lié à l’investissement dans des titres spéculatifs (« high yield ») : Le portefeuille peut être exposé en titres de créances ou obligations et être exposé au risque de crédit sur les émetteurs. Ces titres, représentant une créance émise par les entreprises ou les états, présentent un risque de crédit ou de signature. Ce risque augmente la probabilité que l’émetteur et/ou l’émission n’honore pas ses engagements vis-à-vis de l’investisseur en raison d’une notation « High Yield ». En cas de faillite de l’émetteur ou en cas de dégradation de la qualité des émetteurs, par exemple de leur notation par les agences de notation financière, ou si l’émetteur n’est plus en mesure de le rembourser et de verser à la date contractuelle l’intérêt prévu, la valeur des obligations peut baisser et faire baisser la valeur liquidative de la SICAV. Le portefeuille peut être exposé jusqu’à 35 % au risque de crédit sur des titres à caractère spéculatifs non notés ou notés « High Yield ». La SICAV doit être considérée comme spéculative et s’adressant plus particulièrement à des investisseurs conscients des risques inhérents aux investissements dans des titres dont la notation est basse ou inexistante. Ainsi, l’utilisation de titres spéculatifs pourra entrainer un risque de baisse de la valeur liquidative plus important.
+Risque de taux : La SICAV sera investie en instruments obligataires, en cas de hausse des taux d’intérêts, la valeur des actifs investis à taux fixe peut baisser et donc entraîner une baisse de la valeur liquidative de la SICAV.
+Risque lié aux obligations convertibles : La valeur des obligations convertibles dépend de plusieurs facteurs : niveau des taux d’intérêt, évolution du prix des actions sous-jacentes, évolution du prix du dérivé intégré dans l’obligation convertible. Ces différents éléments peuvent entrainer une baisse de la valeur liquidative.
+Risque lié aux titres de créances subordonnés : Il est rappelé qu’une dette est dite subordonnée lorsque son remboursement dépend du remboursement initial des autres créanciers (créanciers privilégiés, créanciers chirographaires). Ainsi, le créancier subordonné sera remboursé après les créanciers ordinaires, mais avant les actionnaires. Le taux d’intérêt de ce type de dette sera supérieur à celui des autres créances. En cas de déclenchement d’une ou plusieurs clause(s) prévue(s) dans la documentation d’émission desdits titres de créance subordonnés et plus généralement en cas d’évènement de crédit affectant l’émetteur concerné, il existe un risque de baisse de la valeur liquidative de l’OPCVM. L’utilisation des obligations subordonnées peut exposer la SICAV aux risques d’annulation ou de report de coupon (à la discrétion unique de l’émetteur), d’incertitude sur la date de remboursement, ou encore d'évaluation / rendement (le rendement attractif de ces titres pouvant être considéré comme une prime de complexité).
+Risque action : La valeur des investissements et le revenu qui en découlent peuvent évoluer à la hausse comme à la baisse et les investisseurs peuvent ne pas récupérer le capital initialement investi. La valeur d’un portefeuille peut être affectée d’une part par l’évolution des résultats des entreprises et leurs activités économiques et d’autre part, par des facteurs extérieurs tels que des développements politiques et économiques ou des changements de politique de la part de certains gouvernements. Ainsi, en cas de baisse des marchés actions, la valeur liquidative de l’OPCVM pourra baisser.
+Risque pays lié à l’investissement sur les titres émis par les pays émergents : les titres d’émetteurs issus des pays émergents peuvent offrir une liquidité plus restreinte voir ne plus être négociables momentanément, du fait notamment de l’absence d’échanges sur le marché ou de restrictions réglementaires. En outre, les mouvements de baisse peuvent être plus marqués et plus rapides que dans les pays développés créant ainsi un risque de volatilité. Ces éléments peuvent entrainer une baisse de la valeur liquidative.
+Risque lié à la gestion discrétionnaire : Il s’agit du risque lié au fait que la performance de l’OPCVM ne soit pas conforme à ses objectifs et que l’OPCVM ne soit pas investi à tout moment sur les marchés les plus performants.
+Risque en matière de durabilité : Il s’agit de tout événement ou toute situation dans le domaine environnemental, social ou de la gouvernance qui, s’il survient, pourrait avoir un impact négatif réel ou potentiel sur la valeur de l’investissement. La survenance d'un tel événement ou d'une telle situation peut également conduire à une modification de la stratégie d'investissement du FCP, y compris l'exclusion des titres de certains émetteurs. Plus précisément, les effets négatifs des risques de durabilité peuvent affecter les émetteurs via une série de mécanismes, notamment : 1) une baisse des revenus ; 2) des coûts plus élevés ; 3) des dommages ou une dépréciation de la valeur des actifs ; 4) coût du capital plus élevé ; et 5) amendes ou risques réglementaires. En raison de la nature des risques de durabilité et de sujets spécifiques tels que le changement climatique, la probabilité que les risques de durabilité aient un impact sur les rendements des produits financiers est susceptible d'augmenter à plus long terme. Votre SICAV ayant une stratégie ISR le risque en matière de durabilité est réduit en référence à sa politique ESG.
+Risques accessoires : ces risques sont accessoires car la gestion n’expose pas l’OPCVM au-delà de 10 % de son actif net.
+Risque petites capitalisations : L’attention des investisseurs est attirée sur le fait que les marchés de petites capitalisations sont destinés à accueillir des entreprises qui, en raison de leurs caractéristiques spécifiques (capitalisations boursières < 150 millions d’euros), peuvent présenter des risques pour les investisseurs. Les petites capitalisations négociées sur Alternext ou sur le marché libre (marché non réglementé), qui ont un volume de titres cotés en Bourse réduit et qui sont susceptibles de rencontrer des risques de liquidités sont, en général, plus volatiles que les grandes capitalisations. La valeur liquidative de
+MEESCHAERT
+ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 13 sur 30
+PROCLERO
+l’OPCVM peut donc baisser plus rapidement et plus fortement.
+Risque de change : Une part de l’actif pouvant être libellée dans des devises différentes de la devise de référence, la SICAV peut être affectée par une modification en matière de contrôle des taux de change ou par toute fluctuation des taux de change entre la devise de référence et ces autres devises.
+Si la devise dans laquelle un titre est libellé s’apprécie par rapport à la devise de référence, la valeur du titre va augmenter. A l’inverse, une dépréciation de cette même devise entraînera une perte de valeur du titre et une baisse de la valeur liquidative de l’OPCVM.
+➢ Garantie ou protection
+Néant
+➢ Engagement contractuel
+La Sicav est soumise au droit français. En fonction de la situation particulière de l’investisseur, tout litige sera porté devant les juridictions compétentes.
+➢ Souscripteurs concernés
+La SICAV est ouverte à tous souscripteurs et est également destinée à servir de support de contrats d’assurance vie en unités de compte. L’investisseur souscrivant des actions de cette SICAV souhaite investir dans un placement diversifié à dominante obligataire. La durée minimale de placement recommandée est de 3 ans.
+Les actions de cette SICAV ne sont pas et ne seront pas enregistrées aux Etats-Unis en application du U.S. Securities act 1933 tel que modifié (« Securities Act 1933 ») ou admises en vertu d’une quelconque loi des Etats-Unis. Ces actions ne doivent ni être offertes, vendues ou transférées aux Etats-Unis (y compris dans ses territoires et possessions et toute région soumise à son autorité judiciaire) ni bénéficier, directement ou indirectement, à une US Person (au sens du règlement S du Securities Act de 1933 - La traduction non officielle française est disponible sur notre site www.meeschaert-am.com). A cet effet, la SICAV opte pour l’application du statut d’institution financière non déclarante française réputée conforme à l’article 1471 de l’Internal Revenue Code des Etats-Unis, tel que décrit au paragraphe B de la section II de l’annexe II (« OPC ») de l’accord signé le 14 novembre 2013 entre les gouvernements français et américain.
+Le montant qu’il est raisonnable d’investir dans cette SICAV dépend de la situation personnelle de chaque investisseur, et notamment de ses objectifs propres et de la composition de son portefeuille financier. Il est recommandé au souscripteur de diversifier suffisamment ses investissements afin de ne pas les exposer uniquement aux risques de cette SICAV.
+Crise en Ukraine : En application des dispositions du règlement UE N° 833/2014, la souscription des actions de cet OPC est interdite à compter du 12 avril 2022 à tout ressortissant russe ou biélorusse, à toute personne physique résidant en Russie ou en Biélorussie ou à toute personne morale, toute entité ou tout organisme établi en Russie ou en Biélorussie sauf aux ressortissants d'un État membre et aux personnes physiques titulaires d’un titre de séjour temporaire ou permanent dans un État membre.
+➢ Modalités de détermination et d’affectation des sommes distribuables
+Actions C, A et I : Capitalisation du résultat net et des plus-values nettes réalisées.
+Actions D : Distribution du résultat net, et distribution (totale ou partielle) ou report (total ou partiel) des plus-values nettes réalisées sur décision du Comité exécutif.
+Chaque année le souscripteur de l’action D s’engage à verser à la Congrégation de la Communauté Saint Martin pour son activité d’établissement d’enseignement supérieur sous la forme d’un don, 70 % du revenu distribué parla SICAV. Ce don est assorti d’un reçu fiscal.
+➢ Fréquence de distribution
+Une fois par an au mois d’avril.
+➢ Caractéristiques des actions
+Les souscriptions / rachats s’effectuent par millième d'actions ou en montant.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 14 sur 30 :selected: :selected: :selected: :selected: :selected:
+PROCLERO
+Catégorie de part
+Code ISIN
+Devise de libellé
+Valeur d’origine de la part
+Affectation des sommes distribuables (résultat net et plus- values nettes réalisées)
+Montant minimum de souscription initiale
+Souscripteurs concernés
+C
+FR0011136563
+Euro
+150 euros
+Capitalisation
+Un millième d’action
+Ouvertes à tous souscripteurs. (Elle est également destinée à servir de support de contrats d’assurance vie en unités de compte de compagnies d’assurance – Action C).
+D
+FR0011147552
+Euro
+150 euros
+Résultat net : Distribution Plus-values nettes réalisées : Distribution (totale ou partielle) ou report (total ou partiel) sur décision de la société de gestion
+Un millième d’action
+Ouvertes à tous souscripteurs.
+A
+FR0014001SX6
+Euro
+150 euros
+Capitalisation
+Un millième d’action
+Réservée à la commercialisation par des intermédiaires financiers
+I
+FR0014001SY4
+Euro
+10 000 euros
+Capitalisation
+3 000 000 euros
+Réservée aux investisseurs Institutionnels
+Modalités de partage :
+Actions (A), (C), (D) et (I) : la société de gestion s’engage à verser annuellement à Congrégation de la Communauté Saint Martin pour son activité d’établissement d’enseignement supérieur, 50% des frais de gestion, déduction faite des rétrocessions versées ou à verser aux distributeurs de la SICAV et des frais administratifs externes de la société de gestion.
+La Congrégation de la Communauté Saint-Martin a fondé l’École Supérieure de Philosophie et de Théologie, qui est affiliée depuis 2007 à la Faculté de Théologie de l’Université Pontificale du Latran (affiliation renouvelée en 2012 puis en 2017). La Communauté exerce ainsi une activité de formation intellectuelle, philosophique et théologique, dans le cadre d'un établissement privé d’enseignement supérieur régulièrement déclaré (N°UAI 0531049C). Cette activité, dispensée dans un cadre non lucratif, permet à la Congrégation de la Communauté Saint-Martin, pour les besoins de son activité d’établissement d’enseignement supérieur, de recevoir des dons ouvrant droits à un avantage fiscal au profit de ses donateurs.
+Ce versement est à titre indicatif estimé à 0,40% de l’actif net moyen de la SICAV par an. Ce versement annuel se fera sous forme d’un don.
+Dans le cas d’un don, le mécanisme pourra ouvrir droit à des avantages fiscaux pour la société de gestion mais pas pour l’associé.
+Action (D) : distribution du résultat net, et distribution (totale ou partielle) ou report (total ou partiel) des plus-values nettes réalisées sur décision de la société de gestion. Chaque année le souscripteur de l’action D s’engage à verser à Congrégation de la Communauté Saint Martin pour son activité d’établissement d’enseignement supérieur sous la forme d’un don, 70% du revenu distribué par la SICAV. Ce don est assorti d’un reçu fiscal.
+Modalités de souscription et de rachat :
+Les souscriptions / rachats s’effectuent par millième d'actions ou en montant. Les demandes de souscription et de rachat sont centralisées par CACEIS BANK du lundi au vendredi à 12 heures (heure de Paris) et sont exécutées sur la base de la prochaine valeur liquidative datée du même jour et réglées dans les 3 jours suivant la date de centralisation.
+La valeur liquidative est calculée quotidiennement à l’exception des jours fériés en France et des jours de fermeture des marchés français (calendrier officiel d’EURONEXT PARIS).
+Les ordres sont exécutés conformément au tableau ci-dessous :
+J ouvrés
+J ouvrés
+J : jour d’établissement de la VL
+J+2 ouvrés
+J+3 ouvrés
+J+3 ouvrés
+Centralisation avant 12h des ordres de souscription 1
+Centralisation avant 12h des ordres de rachat 1
+Exécution de l’ordre au plus tard en J
+Publication de la valeur liquidative
+Règlement des souscriptions
+Règlement des rachats
+1 Sauf éventuel délai spécifique convenu avec votre établissement financier
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 15 sur 30
+PROCLERO
+Etablissements désignés pour recevoir les souscriptions et les rachats, et en charge du respect de l’heure limite de centralisation indiquée dans le paragraphe ci-dessus :
+CACEIS BANK.
+L’attention des associés est attirée sur le fait que les ordres transmis doivent tenir compte du fait que l’heure limite de centralisation des ordres s’applique vis-à-vis de CACEIS BANK. En conséquence, l’heure limite, doit tenir compte du délai de transmission des ordres à CACEIS BANK.
+➢ Frais et commissions
+Frais à la charge de l’investisseur, prélevé lors des souscriptions et des rachats
+Assiette
+Taux barème
+Commission de souscription non acquise à l’OPCVM
+Valeur liquidative x nombre d’actions
+Néant
+Commission de souscription acquise à l’OPCVM
+Valeur liquidative x nombre d’actions
+Néant
+Commission de rachat non acquise à l’OPCVM
+Valeur liquidative x nombre d’actions
+Néant
+Commission de rachat acquise à l’OPCVM
+Valeur liquidative x nombre d’actions
+Néant
+1. Commissions de souscription et de rachat
+Les commissions de souscription et de rachat viennent augmenter le prix de souscription payé par l’investisseur ou diminuer le prix de remboursement. Les commissions acquises à la SICAV servent à compenser les frais supportés par la SICAV pour investir ou désinvestir les avoirs confiés. Les commissions
+non acquises reviennent à la société de gestion, au
+commercialisateur, etc.
+2. Frais de gestion
+Ces frais recouvrent tous les frais facturés directement à l’OPCVM, à l’exception des frais de transaction. Les frais de transaction incluent les frais d’intermédiation (courtage, ...) et la commission de mouvement, le cas échéant, qui peut être perçue notamment par le dépositaire et la société de gestion.
+3. Commissions de mouvement
+Seule la société de gestion en bénéficie. Pour plus de précisions sur les frais effectivement facturés à l’OPCVM, se reporter au DICI.
+MEESCHAERT
+ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 16 sur 30 :selected:
+PROCLERO
+Frais facturés à l’OPCVM
+Assiette
+Taux Barème
+1 & 2
+Frais de gestion financière et frais administratifs externes à la société de gestion
+Actif net (déduction faite des parts en portefeuille d’OPCVM et/ou de FIA européens ouverts à une clientèle non professionnelle gérés par la société de gestion Meeschaert Asset Management)
+Actions C & D : 1% TTC * Taux maximum Action A : 1,20% TTC* Taux maximum Action I : 0,50% TTC* Taux maximum
+3
+Frais indirects maximum
+Actif net
+Non significatif**
+4
+Commissions de mouvement - Société de gestion : 100%
+Prélèvement sur chaque transaction
+Actions : Max 0,57% TTC* Obligations : Max 0,25% TTC*
+5
+Commissions de sur-performance
+Actif net
+Néant
+*La société de gestion Meeschaert Asset Management n’ayant pas opté à la TVA, ces frais sont facturés sans TVA et le montant TTC est égal au montant hors taxes.
+**OPCVM investissant à moins de 10% dans d’autres OPC
+Aux frais mentionnés dans le tableau ci-dessus peuvent, le cas échéant s’ajouter des coûts exceptionnels et non récurrents en vue d’un recouvrement des créances (ex : Lehman, recouvrement impôts étrangers, … ou d’une procédure pour faire valoir un droit (ex : procédure de class action)). L’information relative à ces frais est décrite ex-post dans le rapport annuel de l’OPC.
+Recherche
+Des frais liés à la recherche au sens de l’article 314-21 du règlement général de l’AMF peuvent être facturés à la SICAV. Des informations complémentaires sur le fonctionnement de ces frais de recherche sont disponibles auprès de la société de gestion.
+Choix des intermédiaires financiers
+Le choix des intermédiaires financiers fait l'objet d'un ensemble formalisé de procédures.
+Meeschaert Asset Management a établi une politique de sélection des intermédiaires dans laquelle elle définit les critères de choix et la manière dont elle contrôle la qualité d'exécution des prestataires sélectionnés. Les critères retenus dans le cadre de cette sélection sont les suivants : le coût total d'intermédiation, la qualité d’exécution, la qualité de la recherche, la disponibilité du contact, la qualité du traitement administratif.
+Le poids accordé à chaque critère dépend de la nature du processus d'investissement concerné.
+Les prestataires sélectionnés par Meeschaert Asset Management qui ont démontré leur qualité et leur sérieux par le passé, se sont engagés dans leur politique d’exécution à respecter des critères identiques à ceux retenus par Meeschaert Asset Management dans sa politique de sélection.
+Ces prestataires seront réévalués périodiquement afin de s’assurer qu’ils continuent à fournir, de manière permanente, la qualité de la prestation attendue dans le cadre de la politique de sélection. MAM procédera à un examen annuel de sa politique de meilleure sélection.
+Commissions en nature : Meeschaert Asset Management ne reçoit ni pour son compte propre ni pour le compte de tiers de commissions en nature.
+Pour toute information complémentaire, se reporter au rapport annuel de la SICAV, disponible auprès de la Société de Gestion.
+4. INFORMATIONS D’ORDRE COMMERCIAL
+-
+- Modalités de souscription et de rachat des actions :
+Dans le cadre des dispositions du prospectus, les souscriptions et les rachats d’actions de la SICAV peuvent être effectués auprès de CACEIS BANK et le cas échéant auprès des intermédiaires financiers affiliés à Euroclear France.
+- Distributions : Les distributions font l’objet d’une information via le dépositaire CACEIS BANK et le cas échéant via les intermédiaires financiers affiliés à Euroclear France.
+- Modalités d’information des associés :
+Le Document d’information clé pour l’investisseur, le prospectus et les derniers documents annuels et périodiques de la SICAV sont adressés dans un délai de huit jours ouvrés sur simple demande écrite du porteur auprès de :
+Meeschaert Asset Management
+Tour Maine Montparnasse, 33 avenue du Maine 75755 Paris Cedex 15 contact-mam@meeschaert.com
+- Information en cas de modification des modalités de fonctionnement de la SICAV : Les porteurs sont informés des modifications apportées aux modalités de fonctionnement de la SICAV, soit individuellement, soit par voie de presse ou tout autre moyen conformément à l’instruction n°2011-19. Cette information peut être effectuée, les cas échéants, par l’intermédiaire d’Euroclear France et des intermédiaires financiers qui lui sont affiliés.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 17 sur 30
+PROCLERO
+- La valeur liquidative est consultable dans les bureaux de la société de gestion et sur son site internet : www.meeschaert- am.com
+- Les informations relatives à la prise en compte dans la politique d’investissement des critères environnementaux, sociaux et de qualité de gouvernance (ESG) sont disponibles sur le site internet www.meeschaert-am.com et figureront dans le rapport annuel
+- La politique d’intégration des risques de durabilité et la politique de diligence raisonnable relative aux incidences négatives des décisions d’investissement sur les facteurs de durabilité de Meeschaert Asset Management sont disponibles sur le site internet www.meeschaert-am.com à la rubrique Informations réglementaires.
+- La société de gestion a précisé comment ce produit considère les incidences négatives des décisions d’investissement sur les facteurs de durabilité dans l'annexe sfdr disponible sur le site internet de la société www.meeschaert-am.com.
+5. RÈGLES D’INVESTISSEMENT
+-
+L’OPCVM respectera les règles d’éligibilité et limites d’investissement applicables aux OPCVM, notamment les articles L214-20 et R214-9 et suivants du Code monétaire et financier et le Règlement Général de l’AMF.
+En particulier, il pourra investir jusqu'à 35% de ses actifs en titres financiers éligibles et instruments du marché monétaire émis ou garantis par tous états ou organismes publics ou parapublics autorisés.
+6. RISQUE GLOBAL
+Méthode de suivi du risque global : Celui-ci est calculé selon la méthode du calcul de l’engagement.
+7. RÈGLES D’ÉVALUATION ET DE COMPTABILISATION DES ACTIFS
+-
+7.1 Description des méthodes de valorisation des postes du bilan et du hors-bilan
+Les actifs sont évalués selon les modalités prévues par le règlement de la SICAV et notamment :
+Le portefeuille est évalué lors de chaque valeur liquidative et à l'arrêté du bilan selon les règles suivantes : Valeurs mobilières négociables sur un marché réglementé :
+Les actions et assimilées Européennes et étrangères sont valorisées sur la base des cours de bourse à la clôture. Les instruments de taux sont valorisés au prix du marché, soit sur la base de la moyenne des cours contribués par les spécialistes de marché soit sur la base de cours contributeurs en direct.
+Les parts et actions d’OPCVM et/ou de FIA européens ouverts à une clientèle non professionnelle sont valorisées à la dernière valeur liquidative connue.
+Titres de créances négociables :
+- Prix d'acquisition majoré des intérêts courus pour les TCN à échéance à trois mois maximum et pour les TCN à plus de trois mois, valeur de marché ou en l'absence de transactions significatives par application d'une méthode actuarielle. Les plus ou moins-values dégagées lors des cessions éventuelles de valeurs françaises ou étrangères sont calculées par référence à la méthode FIFO.
+Les instruments financiers à terme ferme négociés sur un marché réglementé sont valorisés au cours de compensation.
+Les instruments financiers à terme conditionnels négociés sur un marché réglementé sont valorisés au cours de clôture.
+Les instruments financiers dont le cours n’a pas été constaté, dont l’évolution paraît incorrecte le jour de l’évaluation ou dont le cours a été corrigé sont évalués à leur valeur probable de négociation sous la responsabilité du Directoire de la société de gestion. Ces évaluations et leur justification sont communiquées au commissaire aux comptes à l’occasion de ses contrôles.
+7.2 Méthodes d'évaluation des engagements hors bilan
+Les éléments de hors-bilan sont présentés en valeur de marché, cette valeur résultant pour les opérations conditionnelles de la traduction en équivalent sous-jacent.
+L’engagement sur les marchés à terme est calculé selon la méthode du calcul de l’engagement.
+PROCLERO - Prospectus - 2023-03-31
+MEESCHAERT ASSET MANAGEMENT
+page 18 sur 30
+PROCLERO
+7.3 Indication du mode de comptabilisation des titres Les titres sont comptabilisés frais exclus.
+7.4 Description de la méthode suivie pour la comptabilisation des revenus des valeurs à revenu fixe
+Les revenus sont comptabilisés selon la méthode des coupons courus.
+Actions C, A et I : Capitalisation du résultat net et des plus-values nettes réalisées.
+Actions D : Distribution du résultat net, et distribution (totale ou partielle) ou report (total ou partiel) sur décision du Comité exécutif. Chaque année, le souscripteur de l’action D s’engage à verser à la Congrégation de la Communauté Saint Martin pour son activité d’établissement d’enseignement supérieur sous la forme d’un don, 70% du revenu distribué par la SICAV. Ce don est assorti d’un reçu fiscal.
+Le comité exécutif statue sur l’affectation de chacune des sommes distribuables chaque année. Le cas échéant, il peut décider, en cours d’exercice, la mise en distribution d’un ou plusieurs acomptes dans la limite des revenus nets de chacune des sommes comptabilisés à la date de décision.
+7.5 Devise de comptabilisation
+La devise de comptabilisation est l’euro.
+8. RÉMUNÉRATION
+La Société de Gestion a mis en place une politique de rémunération pour les catégories de personnel dont les activités professionnelles ont une incidence significative sur le profil de risque de la société de gestion ou des OPCVM. Ces catégories de personnels comprennent les gérants, les membres du Directoire comprenant la direction générale, les preneurs de risques, les personnes exerçant une fonction de contrôle, les personnes qui ont le pouvoir d’exercer une influence sur les salariés, et tous les salariés recevant une rémunération totale se situant dans la même tranche de rémunération que les preneurs de risques et la direction générale.
+Cette politique détaille les grands principes relatifs à la détermination et au versement des rémunérations.
+La Politique est déterminée de manière à éviter les situations de conflits d’intérêts et les prises de risques inconsidérées ou
+incompatibles avec les profils de risque des OPC qu’elle gère, et de manière générale, avec l’intérêt des associés d’actions des fonds gérés par la société de gestion.
+Les détails de la politique de rémunération actualisée sont disponibles sur le site Internet de la société de gestion à l’adresse www.meeschaert-am.com. Un exemplaire papier est mis à disposition gratuitement sur demande.
+Meeschaert Asset Management a mis en place un comité de rémunération. Le comité de rémunération est organisé conformément aux règles internes en conformité avec les principes énoncés dans la Directive 2009/65/EC et la Directive 2011/ 61/EU.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Prospectus - 2023-03-31
+page 19 sur 30
+PROCLERO
+STATUTS DE LA SICAV PROCLERO
+SOCIETE D’INVESTISSMENT A CAPITAL VARIABLE (SICAV} Société par Actions Simplifiée (SAS) Au capital de 60 232 317,59 euros 12 Rond-point des Champs-Elysées - 75008 Paris 848 324 109 R.C.S. Paris
+(la « Société »)
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Règlement - 2023-03-31
+page 20 sur 30
+PROCLERO
+TITRE I - FORME - OBJET - DÉNOMINATION - SIÈGE SOCIAL - DURÉE DE LA SOCIÉTÉ
+ARTICLE 1 - FORME
+Il est formé entre les détenteurs d'actions ci-après créées et de celles qui le seront ultérieurement une Société d’investissement à Capital Variable (SICAV) régie notamment par les dispositions du Code de commerce relatives aux sociétés commerciales {Livre Il — Titre ll — Chapitres VII), du code monétaire et financier (Livre Il — Titre I — Chapitre IV — Section I) ; Ieurs textes d’application, les textes subséquents et par les présents statuts.
+La SICAV peut emporter plusieurs compartiments. Chaque compartiment émet des catégories d’actions en représentation des actifs de la SICAV qui lui sont attribués. Dans ce cas, les dispositions des présents statuts applicables aux actions de la SICAV sont applicables aux catégories d’actions émises en représentation des actifs de chaque compartiment.
+ARTICLE 2 - OBJET
+Cette Société a pour objet la constitution et la gestion d’un portefeuille d’instruments financiers et de dépôts.
+ARTICLE 3 - DÉNOMINATION
+La Société a pour dénomination : PROCLERO suivie de la mention “Société d’investissement à Capital Variable” accompagnée ou non du terme “SICAV” et, suivie de la mention « Société par Actions Simplifiée » accompagnée ou non du terme « SAS »
+ARTICLE 4 - SIÈGE SOCIAL
+Le siège social est fixé sis Tour Maine Montparnasse - 33 avenue du Maine 75015 Paris
+Il peut être transféré en tout lieu par décision du Président qui est habilité à modifier les Statuts de la Société en conséquence.
+ARTICLE 5 - DURÉE
+La durée de la Société est de quatre-vingt-dix-neuf (99) ans à compter de son immatriculation au Registre du commerce et des sociétés, sauf dans les cas de dissolution anticipée ou de prorogation prévus aux présents statuts.
+TITRE ll - CAPITAL SOCIAL - VARIATION DU CAPITAL - CARACTÉRISTIQUES DES ACTIONS
+ARTICLE 6 - CAPITAL SOCIAL
+Le capital initial s'élève à la somme de 60 232 317,59 euros divisé en 352 561,347 actions entièrement libérées.
+Il a été constitué par l’apport des actifs et passifs du Fonds Commun de Placement PROCLERO (le « FCP Proclero »), dans le cadre de la transformation du FCP Proclero en SICAV. Cet apport est évalué sur la base des valeurs liquidatives du FCP Proclero arrêtées le 31 décembre 2018 à la clôture des marchés et fait l’objet d’un rapport par le commissaire aux comptes, sous sa responsabilité.
+Les caractéristiques des différentes catégories d'actions et Ieurs conditions d’accès sont précisées dans le prospectus de la SICAV.
+Les différentes catégories d’actions pourront :
+✔ bénéficier de régimes différents de distribution des revenus (distribution ou capitalisation) ;
+✔ étre libellées en devises différentes ; supporter des frais de gestion différents ;
+✔ supporter des commissions de souscription et de rachat différentes ; avoir une valeur nominale différente ;
+✔ être assorties d’une couverture systématique de risque, partielle ou totale, définie dans le prospectus. Cette couverture est assurée au moyen d’instruments financiers réduisant au minimum l’impact des opérations de couverture sur les autres catégories d’actions de la SICAV ;
+✔ être réservées è un ou plusieurs réseaux de commercialisation.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Règlement - 2023-03-31
+page 21 sur 30 :selected: :selected: :selected: :selected: :unselected: :unselected: :selected:
+PROCLERO
+Les actions peuvent être regroupées ou divisées sur proposition du président et approbation de l’assemblée générale extraordinaire. Les actions pourront être fractionnées, sur décision du président en dixièmes, centièmes, millièmes, dix- millièmes dénommées fractions d’action.
+Les dispositions des statuts réglant l’émission et le rachat d’actions sont applicables aux fractions d’action dont la valeur sera toujours proportionnelle à celle de l’action qu’elles représentent. Toutes les autres dispositions des statuts relatives aux actions s’appliquent aux fractions d’action sans qu’il soit nécessaire de le spécifier, sauf lorsqu’il en est disposé autrement.
+ARTICLE 7 - VARIATIONS DU CAPITAL
+Le montant du capital est susceptible de modifications, résultant de l’émission par la Société de nouvelles actions et de diminution consécutives au rachat d’actions par la Société aux associés qui en font la demande.
+ARTICLE 8 - EMISSIONS ET RACHATS DES ACTIONS
+Les actions sont émises à tout moment à la demande des associés sur la base de leur valeur liquidative augmentée, le cas échéant, des commissions de souscription.
+Les rachats et les souscriptions sont effectués dans les conditions et selon les modalités définies dans le prospectus.
+Toute souscription d’actions nouvelles doit, à peine de nullité, être entièrement libérée et les actions émises portent même jouissance que les actions existantes le jour de l’émission.
+En application de l'article L.214-7-4 du Code monétaire et financier, le rachat par la Société de ses actions, comme l’émission d'actions nouvelles, peuvent être suspendus, à titre provisoire, par l’assemblée générale ou le président, quand des circonstances exceptionnelles l'exigent et si l'intérêt des associés le commande.
+Lorsque l’actif net de la SICAV est inférieur au montant fixé par la réglementation, aucun rachat des actions ne peut être effectué.
+La SICAV peut cesser d’émettre des actions en application du troisième alinéa de l’article L. 214-7-4 du code monétaire et financier, de manière provisoire ou définitive, partiellement ou totalement, dans les situations objectives entraînant la fermeture des souscriptions telles qu’un nombre maximum d’actions émises, un montant maximum d’actif atteint ou l’expiration d'une période de souscription déterminée. Le déclenchement de cet outil fera l’objet d’une information par tout moyen des associés existants relative à son activation, ainsi qu’au seuil et à la situation objective ayant conduit à la décision de fermeture partielle ou totale. Dans le cas d’une fermeture partielle, cette information par tout moyen précisera explicitement les modalités selon lesquelles les associés existants peuvent continuer de souscrire pendant la durée de cette fermeture partielle. Les associés sont également informés par tout moyen de la décision de la SICAV ou de la société de gestion soit de mettre fin à la fermeture totale ou partielle des souscriptions ( Iors du passage sous le seuil de déclenchement), soit de ne pas y mettre fin (en cas de changement de seuil ou de modification de la situation objective ayant conduit à la mise en œuvre de cet outil). Une modification de la situation objective invoquée ou du seuil de déclenchement de l’outil doit toujours être effectuée dans l’intérêt des associés. L’information par tous moyens précise les raisons exactes de ces modifications. Ces situations objectives sont définies dans le prospectus de la SICAV.
+La SICAV peut prévoir des conditions de souscription minimale, selon les modalités prévues dans le prospectus.
+ARTlCLE 9 - CALCUL DE LA VALEUR LIQUIDATlVE DES ACTIONS
+Le calcul de la valeur liquidative de l'action est effectué en tenant compte des règles d'évaluation précisées dans le prospectus.
+En outre, une valeur liquidative instantanée indicative sera calculée par l’entreprise de marché en cas d’admission à la négociation.
+ARTICLE 10 - FORME DES ACTIONS
+Les actions pourront revêtir la forme au porteur ou nominative, au choix des souscripteurs.
+En application de l’article L. 211-4 du Code monétaire et financier et de ses textes d’application, les titres seront obligatoirement inscrits en comptes tenus selon le cas par l’émetteur ou un intermédiaire habilité.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Règlement - 2023-03-31
+page 22 sur 30
+PROCLERO
+Les droits des titulaires seront représentés par une inscription en compte à leur nom :
+• chez l’intermédiaire de leur choix pour les titres au porteur,
+• chez l’émetteur, et s'ils le souhaitent, chez l’intermédiaire de Ieur choix pour les titres nominatifs.
+Tout associé peut demander la délivrance d’une attestation d’inscription en compte.
+La Société peut demander contre rémunération à sa charge, le nom, la nationalité et l’adresse des associés de la SICAV, ainsi que la quantité de titres détenus par chacun d’eux conformément à l’article L.211-5 du code monétaire et financier.
+ARTICLE 11 - ADMISSION A LA NEGOCIATION SUR UN MARCHE REGLEMENTE ET/OU UN SYSTEME MULTILATERAL DE NEGOCIATION
+Les actions peuvent faire l’objet d’une admission à la négociation sur un marché réglementé et/ou un système multilatéral de négociation selon la réglementation en vigueur. Dans le cas où la SICAV dont les actions sont admises aux négociations sur un marché réglementé a un objectif de gestion fondé sur un indice elle devra avoir mis en place un dispositif permettant de s’assurer que le cours de son action ne s’écarte pas sensiblement de sa valeur liquidative.
+ARTICLE 12 - DROITS ET OBLIGATIONS ATTACHÉS AUX ACTIONS
+Chaque action donne droit, dans la propriété de l'actif social et dans le partage des bénéfices, à une part proportionnelle à la fraction du capital qu’elle représente.
+Les droits et obligations attachés à l'action suivent le titre, dans quelque main qu'il passe.
+Chaque fois qu’il est nécessaire de posséder plusieurs actions pour exercer un droit quelconque et notamment, en cas d’échange ou de regroupement, les propriétaires d’actions isolées, ou en nombre inférieur à celui requis, ne peuvent exercer ces droits qu’à la condition de faire leur affaire personnelle du groupement, et éventuellement de l’achat ou de la vente d’actions nécessaires.
+ARTICLE 13 - INDIVISIBILITÉ DES ACTIONS
+Tous les détenteurs indivis d’une action ou les ayants droit sont tenus de se faire représenter auprès de la Société par une seule et même personne nommée d’accord entre eux, ou à défaut par le président du Tribunal de commerce du lieu du siège social.
+Au cas où le président opte pour le fractionnement des actions conformément à l’Article 6 des présents statuts, les propriétaires de fractions d’actions peuvent se regrouper. Ils doivent, en ne cas, se faire représenter dans les conditions prévues à l’alinéa précédent, par une seule et mème personne qui exercera, pour chaque groupe, les droits attachés à la propriété d’une action entière.
+TITRE III - ADMINISTRATION, DIRECTION ET CONTRÔLE DE LA SOCIÉTÉ
+ARTICLE 14 - PRESIDENT DE LA SOCIETE
+Le président de la Société est désigné par la Congrégation de la Communauté de Saint-Martin, représentée par son modérateur général. Toutefois, le premier président de la Société est désigné dans les présents statuts.
+Le président peut être une personne physique ou morale, associé ou non de la Société. Lorsque le président est une personne morale, celle-ci est obligatoirement représentée par son représentant légal.
+Le président est nommé pour une durée fixée dans l’acte de nomination.
+Le président peut être révoqué, par la Congrégation de la Communauté de Saint-Martin, représentée par son modérateur général, à tout moment et sans qu’il soit besoin d’un juste motif.
+Le président personne physique est révoqué de plein droit en cas d'interdiction de diriger, gérer, administrer ou contrôler une entreprise ou une personne morale, en cas d’incapacité ou de faillite personnelle.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Règlement - 2023-03-31
+page 23 sur 30
+PROCLERO
+Le président représente la Société dans ses rapports avec les tiers à l’égard desquels il est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la Société dans la limite de l’objet social et conformément à la répartition des attributions prévue aux présents statuts.
+ARTICLE 15 - LE COMITE EXECUTIF
+La Société est gérée et administrée par un comité exécutif. Le comité exécutif est composé de trois (3) membres au moins et de cinq (5) membres au plus, nommés pour une durée fixée dans l’acte de nomination. Il est présidé par le président de la Société qui en est membre de droit.
+Les membres du comité exécutif peuvent être des personnes physiques ou des personnes morales. Ils peuvent être choisis parmi les associés ou en dehors.
+Les personnes morales membres du comité exécutif sont représentées par leurs représentants légaux ou par toutes personnes physiques dûment mandatées.
+Les premiers membres du comité exécutif sont désignés aux termes des présents statuts. En cours de vie sociale, ils sont désignés par décision de la Congrégation de la Communauté Saint-Martin, représentée par son modérateur général.
+Les membres du comité exécutif peuvent être révoqués à tout moment et sans qu'il soit besoin d’un juste motif par décision de la Congrégation de la Communauté Saint-Martin, représentée par son modérateur général.
+ARTICLE 16 : REUNIONS DU COMITE EXECUTIF
+Le comité exécutif est convoqué par son président ou à la demande d’au moins la moitié de ses membres, au moins une fois par trimestre. La convocation est effectuée par tous moyens.
+La convocation doit intervenir au moins cinq (5) jours à l’avance. Cs délai n’est pas applicable en cas d'urgence ou si tous les membres du comité exécutif sont présents ou représentés.
+Les réunions se tiennent en tout lieu mentionné dans la convocation. Elles peuvent aussi intervenir par vois de visioconférence ou d’autres modes de télécommunication. Pour être valables, ces modes de communications doivent transmettre au moins la voix des participants et satisfaire à des caractéristiques techniques permettant la retransmission continue et simultanée des délibérations.
+Les réunions du comité exécutif sont présidées par son président. En l'absence du président, le comité exécutif désigne parmi ses membres la personne appelée à présider la réunion.
+Le comité exécutif ne peut délibérer que si plus de la moitié de ses membres sont présents ou représentés. Les décisions du comité exécutif sont prises à la majorité simple des membres présents et représentés.
+Un membre du comité exécutif ne peut se faire représenter que par un autre membre. Un membre du comité exécutif peut détenir plusieurs pouvoirs.
+Les décisions du comité exécutif sont constatées dans des procès-verbaux signés par les membres présents.
+ARTICLE 17 - POUVOIRS DU COMITE EXÉCUTIF
+Le comité exécutif détermine les orientations de la Société et veille à leur mise en couvre. II se saisit de toute question intéressant la bonne marche de la Société, dans la limite de l’objet social et sous réserve des pouvoirs expressément attribués par la Ioi aux associés.
+Il arrête notamment la charte éthique et veille à son application. Il peut recevoir toutes informations nécessaires à l’accomplissement de sa mission et peut obtenir auprès du président ou de tout autre organe de la Société, tous les documents qu’il estime utiles.
+Le comité exécutif choisit la société de gestion de la Société.
+Le comité exécutif peut procéder à tout moment aux contrôles et vérifications qu'il juge utiles.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Règlement - 2023-03-31
+page 24 sur 30
+PROCLERO
+ARTICLE 18 - RÉMUNÉRATION DU COMITE EXECUTIF
+La rémunération des membres du comité exécutif est fixée dans l’acte de nomination de ses membres ; elle peut ètre fixe ou, à la fois, fixe et proportionnelle, sauf pour la rémunération due au titre de leur contrat de travail, le cas échéant.
+La révocation de la fonction de membre du comité exécutif ne donnera droit à aucune indemnité de quelque nature que ce soit.
+ARTICLE 19 - CONVENTIONS REGLEMENTEES
+Toute convention intervenant directement ou par personne interposée entre la Société et son président, l’un de ses associés disposant d'une fraction des droits de vote supérieure à 5 % ou, s’il s’agit d’une société associée, la société la contrôlant au sens de I’article L.233-3 du Code de commerce, doit être portée à la connaissance des commissaires aux comptes et être autorisées préalablement par la collectivité des associés.
+Il en est de même des conventions auxquelles une des personnes visées à l’alinéa précédent est indirectement intéressée.
+Les commissaires aux comptes présentent aux associés un rapport sur la conclusion et l'exécution des conventions conclues avec un associé ou les associés concernés au cours de l’exercice écoulé. Les associés statuent sur ce rapport lors de la décision collective statuant sur les comptes de cet exercice.
+Les interdictions prévues à l'article L 225-43 du Code de commerce s'appliquent au président et aux dirigeants de la Société.
+Sont également soumises à autorisation préalable, les conventions intervenant entre la Société et une entreprise, si le président, ou tout organe de direction de la Société est propriétaire, associé indéfiniment responsable, gérant, administrateur, membre du conseil de surveillance ou, de façon générale, dirigeant de cette entreprise.
+ARTICLE 20 - DÉPOSITAIRE
+Le dépositaire est désigné par le comité exécutif. L’établissement désigné dépositaire est précisé dans le prospectus. Le dépositaire assure les missions qui lui incombent en application des lois et règlements en vigueur ainsi que celles qui lui ont été contractuellement confiées par la SICAV ou la société de gestion. Il doit notamment s’assurer de la régularité des décisions de la société de gestion de portefeuille. Il doit, le cas échéant, prendre toutes mesures conservatoires qu’il juge utiles. En cas de litige avec la société de gestion, il en informe l’Autorité des marchés financiers.
+ARTICLE 21 - COMITE DE PILOTAGE ET DE SUIVI
+Le comité de pilotage et de suivi exerce son activité sous la responsabilité du président de la Société.
+Le comité est composé de quatre (4) à seize (16) membres choisis par le président au sein de la Congrégation de la Communauté Saint-Martin et d’experts indépendants.
+La durée du mandat des membres du comité est de trois (3) ans. Le président peut cependant à tout moment modifier la composition du comité.
+Le comité de pilotage et de suivi se réunit au moins quatre (4) fois par an et en tant que de besoin sur convocation du président ou de la moitié de ses membres dans un délai raisonnable. Le comité fait rapport au président de ses travaux au moins une (1) fois par an.
+Le comité de pilotage et de suivi émet un avis consultatif sur :
+- le contenu de la charte éthique telle qu’inspirée de la Doctrine sociale de l’Eglise catholique et arrêtée par le comité exécutif ainsi que ses éventuelles évolutions ;
+- le respect de la charte éthique dans le cadre de la stratégie et des choix d’investissement de la SICAV ;
+- le choix de la société de gestion.
+ARTICLE 22 - LE PROSPECTUS
+Le président, ou la société de gestion, lorsque la SICAV a déléguée globalement sa gestion, après information préalable du dépositaire, a tous pouvoirs pour y apporter, éventuellement, toutes modifications propres à assurer la bonne gestion de la Société, le tout dans le cadre des dispositions législatives et réglementaires propres aux SICAV.
+PROCLERO - Règlement - 2023-03-31
+MEESCHAERT ASSET MANAGEMENT
+page 25 sur 30
+PROCLERO
+TITRE IV - COMMISSAIRE AUX COMPTES
+ARTICLE 23 - NOMINATION - POUVOIRS - RÉMUNÉRATION :
+Le commissaire aux comptes est désigné pour six exercices par le comité exécutif après accord de l’Autorité des marchés financiers, parmi les personnes habilitées à exercer ces fonctions dans les sociétés commerciales.
+Il certifie la régularité et la sincérité des comptes. Il peut être renouvelé dans ses fonctions.
+Le commissaire aux comptes est tenu de signaler dans les meilleurs délais à l’Autorité des marchés financiers tout fait ou toute décision concernant la SICAV dont il a eu connaissance dans l’exercice de sa mission, de nature :
+1ᵉ A constituer une violation des dispositions législatives ou réglementaires applicables à cet organisme et susceptible d'avoir des effets significatifs sur la situation financière, le résultat ou le patrimoine ;
+2º A porter atteinte aux conditions ou à la continuité de son exploitation ;
+3º A entraîner l'émission de réserves ou le refus de la certification des comptes.
+Les évaluations des actifs et la détermination des parités d’échange dans les opérations de transformation, fusion ou scission sont effectuées sous le contrôle du commissaire aux comptes.
+Il apprécie tout apport en nature sous sa responsabilité.
+Il contrôle la composition de l’actif et les autres éléments avant publication.
+Les honoraires du commissaire aux comptes sont fixés d’un commun accord entre celui-ci et le président de la SICAV au vu d’un programme de travail précisant les diligences estimées nécessaires.
+Le commissaire aux comptes atteste les situations qui servent de base à la distribution d’acomptes.
+TITRE V - ASSEMBLÉES GÉNÉRALES - DECISIONS COLLECTIVES DES ASSOCIES
+ARTICLE 24 - ASSEMBLÉES GÉNÉRALES
+Les seules décisions qui doivent être prises par les associés de la Société sont celles pour lesquelles les dispositions légales et les stipulations des présents statuts imposent une décision collective des associés.
+Les assemblées générales sont convoquées et délibèrent dans les conditions prévues par la loi et les présents statuts.
+Les décisions collectives valablement adoptées obligent tous les associés, même absents ou dissidents.
+L’assemblée générale annuelle, qui doit approuver les comptes de la Société, est réunie obligatoirement dans les quatre (4) mois de la clôture d’exercice.
+Les réunions ont lieu, soit au siège social, soit dans un autre lieu précisé dans l'avis de convocation.
+Tout associé peut participer, personnellement ou par mandataire, aux assemblées sur justification de son identité et de la propriété de ses titres, sous la forme d’une inscription dans les comptes titres nominatifs tenus par la Société, soit d’une inscription dans les comptes de titres au porteur, aux lieux mentionnes dans l'avis de convocation ; le délai au cours duquel ces formalités doivent être accomplies expire deux jours avant la date de réunion de l’assemblée.
+Sauf stipulations spécifiques contraires et expresses des présents statuts, les décisions collectives des associés sont adoptées à la majorité des voix des associés disposant du droit de vote, présents ou représentés.
+Sous la même réserve, le droit de vote attaché aux actions est proportionnel à la quotité du capital qu’elles représentent. Chaque action donne droit à une voix au moins.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Règlement - 2023-03-31
+page 26 sur 30
+PROCLERO
+ARTICLE 25 - MODALITES DES DECISIONS COLLECTIVES
+Les décisions collectives résultent de la réunion d’une assemblée, d’une consultation par correspondance ou d'un acte signé par tous les associés.
+La convocation à une assemblée générale ou à une consultation par correspondance est effectuée par tous moyens de communication écrite, par le président, quinze (15) jours au moins avant la date de la réunion ou la date fixée pour la fin de la consultation par correspondance.
+Toutefois, l'assemblée peut se réunir sans délai et la fin du délai de consultation par correspondance peut être abrégée, si tous les associés y consentent.
+En cas de décision collective résultant de la signature d’un acte par tous les associés, le président organise les modalités de signature de la décision, selon les modalités qui lui paraissent appropriées.
+La convocation indique l'ordre du jour. Elle est accompagnée de tous les documents prescrits par la réglementation en vigueur et de tous documents utiles pour permettre aux associés de se prononcer en toute connaissance de cause sur les questions figurant à l’ordre du jour.
+Les associés ne peuvent délibérer que sur les questions figurant à l’ordre du jour, lequel ne peut être modifié sur seconde convocation.
+Quelque soit le mode d'adoption de la décision collective, les associés bénéficient de la même information et des mêmes droits de communication, tels que prévus aux présents statuts.
+Les commissaires aux comptes, sont convoqués à toutes les assemblées ou informés préalablement, dans les mêmes conditions que les associés, de toute consultation par correspondance ou de tout projet de décision résultant d’un acte signé par tous les associés et sont mis en mesure de présenter tous commentaires ou informations qui leur paraîtraient utiles au consentement éclairé des associés. Ils reçoivent les mêmes documents et informations que les associés.
+L’assemblée est présidée par le président, un membre du comité exécutif délégué à cet effet par le comité exécutif ou, en Ieur absence par un associé désigné par l'assemblée.
+Les associés peuvent se faire représenter aux délibérations de l’assemblée par un autre associé ou par un tiers. Les pouvoirs peuvent être donnés par tous moyens écrits et notamment par télécopie ou courrier électronique.
+ARTICLE 26 - PROCES-VERBAUX DES DECISIONS COLLECTIVES
+Le président ou le président de séance en cas de réunion d’une assemblée, établit un procès-verbal des délibérations devant contenir les mentions prévues par la loi.
+Les décisions collectives prises en assemblée doivent être constatées par écrit dans des procès-verbaux établis sur un registre spécial ou sur des feuilles mobiles numérotées. Les procès-verbaux sont signés par le président de l'assemblée.
+Les procès-verbaux doivent indiquer la date et le lieu de la réunion, les noms, prénoms et qualité du président de séance, les documents et informations communiqués préalablement aux associés, un résumé des débats, ainsi que le texte des résolutions mises aux voix et pour chaque résolution le sens du vote des associés.
+En cas de décision collective résultant d'un acte signé de tous les associés, cet acte doit mentionner les documents et informations communiqués préalablement aux associés, les décisions mises aux voix et pour chacune d'elles, le sens du vote des associés. Il est signé par tous les associés et retranscrit sur le registre spécial ou sur les feuilles mobiles numérotées visés ci-dessus.
+En cas de décision collective résultant d'une consultation par correspondance, le président consigne les résultats des votes dans une décision, mentionnant les documents et informations communiqués préalablement aux associés, les décisions mises aux voix et pour chacune d’elles, le sens du vote des associés. Le procès-verbal de la décision du président est signé par ce dernier et il y est annexé les réponses de chaque associé ayant voté par correspondance. Cs procès-verbal est retranscrit sur le registre spécial ou sur les feuilles mobiles numérotées visés ci-dessus.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Règlement - 2023-03-31
+page 27 sur 30
+PROCLERO
+ARTICLE 27 - INFORMATION ET DROIT DE COMMUNICATION DES ASSOCIES
+Quel que soit le mode de consultation, toute décision des associés doit avoir fait l’objet d'une information préalable comprenant tous les documents et informations permettant aux associés de se prononcer en connaissance de cause sur la ou les résolutions soumises à leur approbation.
+Lorsque les décisions collectives doivent être prises en application de la loi sur le ou les rapports des commissaires aux comptes, le ou les rapports doivent être communiqués aux associés quinze (15) jours avant la date fixée pour la consultation.
+Les associés peuvent à toute époque mais sous réserve de ne pas entraver la bonne marche de la Société, consulter au siège social, et, le cas échéant prendre copie, pour les trois derniers exercices, des registres sociaux, de l’inventaire et des comptes annuels, du tableau des résultats des cinq derniers exercices, des comptes consolidés, s’il y a lieu, des rapports de gestion des commissaires aux comptes.
+S’agissant de la décision collective statuant sur les comptes annuels, les associés peuvent obtenir communication des comptes annuels et, le cas échéant, des comptes consolidés du dernier exercice.
+Le droit de communication des associés, la nature des documents mis à leur disposition et les modalités de leur mise à disposition ou de leur envoi s’exercent dans les conditions prévues par les dispositions légales et réglementaires applicables aux sociétés anonymes.
+TITRE VI - COMPTES ANNUELS
+ARTICLE 28 - EXERCICE SOCIAL
+L'exercice social commence le lendemain du jour de la dernière valeur liquidative du mois de décembre et se termine le jour de la dernière valeur liquidative du même mois de l’année suivante.
+Toutefois, par exception le premier exercice comprendra toutes les opérations effectuées depuis la date de création jusqu'au dernier jour de bourse du mois de décembre 2019.
+ARTICLE 29 - MODALITES D’AFFECTATION DES SOMMES DISTRIBUABLES
+Le comité exécutif arrête le résultat net de l’exercice qui, conformément aux dispositions de la loi, est égal au montant des intérêts, arrérages primes et lots, dividendes, ainsi que tous les autres produits relatifs aux titres constituant le portefeuille de la SICAV, majoré du produit des sommes momentanément disponibles et diminué du montant des frais de gestion, de la charge des emprunts et des dotations éventuelles aux amortissements.
+Les sommes distribuables de la SICAV sont constituées par :
+Le résultat net augmenté du report à nouveau, le cas échéant, et majoré ou diminué du solde du compte de régularisation des revenus afférents à l’exercice clos ;
+Les plus-values réalisées, nettes de frais, diminuées des moins-values réalisées, nettes de frais, constatées au cours de l’exercice, augmentées des plus-values nettes de mème nature constatées au cours d’exercices antérieurs n’ayant pas fait l’objet d’une distribution ou d'une capitalisation et diminuées ou augmentées du solde du compte de régularisation des plus- values.
+Les sommes 1. et 2. mentionnées ci-dessus peuvent être distribuées, le cas échéant, en tout ou partie, indépendamment de l’autre.
+Pour chaque catégorie d’actions, le cas échéant, la SICAV peut opter pour chacune des sommes mentionnées aux 1º et 2º pour l’une des formules suivantes :
+- la capitalisation pure : les sommes distribuables sont intégralement capitalisées à l’exception de celles qui font l’objet d’une distribution obligatoire en vertu de la Loi ;
+- la distribution pure : les sommes distribuables sont intégralement distribuées, aux arrondis près ; possibilité de distribuer des acomptes ;
+- la capitalisation ou/et la distribution : le comité exécutif statue sur l’affectation de chacune des sommes distribuables mentionnées au 1ᵉ et 2º chaque année. Le cas échéant, le comité exécutif peut décider, en cours d’exercice, la mise en distribution d’un ou plusieurs acomptes dans la limite des revenus nets de chacune des sommes mentionnées aux 1º et 2º comptabilisés à la date de décision.
+Les modalités précises d’affectation des sommes distribuables figurent dans le prospectus.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Règlement - 2023-03-31
+page 28 sur 30
+PROCLERO
+TITRE VII - PROROGATION - DISSOLUTION - LIQUIDATION
+ARTICLE 30 - PROROGATION OU DISSOLUTION ANTICIPÉE
+Le comité exécutif peut, à toute époque et pour quelque cause que ce soit, proposer à une assemblée extraordinaire la prorogation ou la dissolution anticipée et la liquidation de la SICAV.
+L’émission d'actions nouvelles et le rachat par la SICAV d'actions aux associés qui en font la demande cessent le jour de la publication de l’avis de réunion de l'assemblée générale à laquelle sont proposées la dissolution anticipée et la liquidation de la Société, ou à l'expiration de la durée de la Société.
+ARTICLE 31 - LIQUIDATION
+Les modalités de liquidation sont établies selon les dispositions de l’article L. 214-12 du code monétaire et financier.
+TITRE VIII - CONTESTATIONS
+ARTICLE 32 - COMPÉTENCE - ELECTION DE DOMICILE
+Toutes contestations qui peuvent s'élever pendant le cours de la Société ou de sa liquidation soit entre les associés et la Société, soit entre les associés eux-mêmes, au sujet des affaires sociales, sont jugées conformément à la Ioi et soumises à la juridiction des tribunaux compétents.
+TITRE IX -
+ARTICLE 33 - IDENTITE DES PERSONNES QUI ONT SIGNE OU AU NOM DE QUI ONT ETE SIGNES LES STATUTS
+Monsieur Benoit Vesco représentant la société de gestion Meeschaert Asset Management, au nom et pour le compte des porteurs de parts du FCP PROCLERO dont les actifs et passifs ont été apportés.
+ARTICLE 34 - NOMINATION DES DIRIGEANTS
+Nomination du premier président :
+Le premier président de la Société nommé aux termes des présents statuts pour une durée de 3 années est Pascal-André Dumont, né le 28 juillet 1967 à Fribourg (Suisse), de nationalité française, demeurant au 8, place de la Basilique, 53600 Evron, déclare accepter lesdites fonctions et satisfaire à toutes les conditions requises par la loi, les règlements et les présents statuts pour Ieur exercice.
+Nomination des membres du comité exécutif :
+Les premiers membres du comité exécutif nommés aux termes des présents statuts pour une durée de 3 années sont : Jean-Rémi Lanavère, né le 16 janvier 1981 à Paris (17e), de nationalité française Demeurant 8, place de la Basilique, 53600 Evron
+Augustin Azaïs, né le 9 janvier 1980 à Toulon, de nationalité française Demeurant 8, place de la Basilique, 53600 Evron
+Laure Delahousse, né le 23 mai 1966 à Amiens, de nationalité française Demeurant 15, rue Trébois, 92300 Levallois Perret Pierre de Lauzun, né le 12 janvier 1949 à Montélimar, de nationalité française,
+Demeurant 43, rue du Colisée, 75008 Paris
+qui déclarent accepter lesdites fonctions et satisfaire à toutes les conditions requises par la Ioi, les règlements et les présents statuts pour Ieur exercice.
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Règlement - 2023-03-31
+page 29 sur 30
+PROCLERO
+ARTICLE 35 - DESIGNATION DU PREMIER COMMISSAIRE AUX COMPTES
+Est désigné comme commissaires aux comptes de la Société pour une durée de (6) exercices, ses fonctions expirant à l’issue de l’assemblée ou de la consultation des associés devant statuer sur les comptes du sixième exercice, l’entité suivante :
+PriceWaterhouseCoopers Audit dont le siège social se situe 63 rue de Villiers 92208 Neuilly- Sur-Seine Cedex, représentée par Monsieur Frédéric SELLAM.
+La société PriceWaterhouseCoopers Audit a fait savoir qu’elle acceptait lesdites fonctions et a précisé qu’il n’existait aucune incompatibilité ni interdiction à sa nomination.
+ARTICLE 36 - ETAT DES ACTES ACCOMPLIS POUR LE COMPTE DE LA SOCIETE EN FORMATION
+Un état des actes accomplis pour le compte de la société en formation, avec l’indication pour chacun d’eux de l’engagement qui en résulte pour la Société est annexé aux présents statuts. Cet état a été tenu à la disposition des associés dans les délais légaux à l’adresse du siège social.
+ARTICLE 37 - FORMALITES DE PUBLICITE - IMMATRICULATION
+Tous pouvoirs sont conférés au porteur d’un original des présentes à l’effet d’accomplir les formalités de publicité, de dépôt et autres nécessaires pour parvenir à I'immatriculation de la Société au registre du commerce et des sociétés.
+Fait à Paris, le 2 janvier 2019
+Meeschaert Asset Management Représentée par Benoit VESCO
+MEESCHAERT ASSET MANAGEMENT
+PROCLERO - Règlement - 2023-03-31
+page 30 sur 30
