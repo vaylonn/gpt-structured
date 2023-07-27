@@ -1,5 +1,6 @@
 import os
 import openai
+import json
 from dotenv import load_dotenv
 from langchain.chat_models import AzureChatOpenAI
 from langchain.embeddings import OpenAIEmbeddings
@@ -85,20 +86,18 @@ print((f"Finished loading doc n°1 index from storage with {len(index.docstore.d
 
 # define output schema
 response_schemas = [
-    ResponseSchema(name="Education", description="Describes the author's educational experience/background."),
-    ResponseSchema(name="Work", description="Describes the author's work experience/background."),
-    ResponseSchema(name="Languages", description="Languages de programmations maitrisés par valentin"),
-    ResponseSchema(name="age", description="Age de valentin"),
-    ResponseSchema(name="Localisation", description="Ou est ce que valentin habite"),
-    ResponseSchema(name="phone", description="numéro de téléphone de valentin"),
-    ResponseSchema(name="mail", description="addresse mail de valentin"),
-    ResponseSchema(name="hobby", description="passions de valentin"),
-    ResponseSchema(name="2Education", description="Describes the author's educational experience/background."),
-    ResponseSchema(name="2Work", description="Describes the author's work experience/background."),
-    ResponseSchema(name="parler", description="langues parlées par valentin et leur niveau"),
-    ResponseSchema(name="sport", description="sports de valentin"),
-    ResponseSchema(name="academics", description="quels sont ses projets académiques"),
+    ResponseSchema(name="forme juridique", description="Quelle est la forme juridique"),
+    ResponseSchema(name="régulation", description="De quelle régulationce ou directive dépend ce Fonds"),
+    ResponseSchema(name="Dépositaire", description="Quel est le dépositaire"),
+    ResponseSchema(name="Pays", description="Quel est le pays de droit"),
+    ResponseSchema(name="Codes ISIN", description="Quels sont les codes ISIN de ce fond de la synthèse de l'offre de gestion"),
+    ResponseSchema(name="2Codes ISIN", description="Quel est le mode d'affectation du troisième code ISIN"),
 ]
+
+    # ResponseSchema(name="Codes ISIN", description="Quel est le mode d'affectation du troisième code ISIN"),
+    # ResponseSchema(name="CAC", description="Quel est le Commissaire aux comptes"),
+    # ResponseSchema(name="Objectif de gestion", description="Quel est l'objectif de gestion"),
+    # ResponseSchema(name="Indicateur de référence", description="Quel est l'Indicateur de référence"),
 
 # define output parser
 lc_output_parser = StructuredOutputParser.from_response_schemas(response_schemas)
@@ -119,20 +118,24 @@ template = (
 
 # format each prompt with output parser instructions
 fmt_qa_tmpl = output_parser.format(template)
-fmt_refine_tmpl = output_parser.format(DEFAULT_REFINE_PROMPT_TMPL)
+#fmt_refine_tmpl = output_parser.format(DEFAULT_REFINE_PROMPT_TMPL)
 qa_prompt = QuestionAnswerPrompt(fmt_qa_tmpl, output_parser=output_parser)
-refine_prompt = RefinePrompt(fmt_refine_tmpl, output_parser=output_parser)
+#refine_prompt = RefinePrompt(fmt_refine_tmpl, output_parser=output_parser)
 
 # query index
 query_engine = index.as_query_engine(
-    similarity_top_k=3,
+    similarity_top_k=5,
     text_qa_template=qa_prompt, 
-    refine_template=refine_prompt, 
+    #refine_template=refine_prompt, 
 )
 response = query_engine.query(
     "Trouve les informations requises dans le document et répond moi avec précision", 
 )
+
 print(str(response))
+
+with open("donnes.json", "w") as dt:
+    dt.write(str(str(response)))
 
 # Documents source
 for node in response.source_nodes:
